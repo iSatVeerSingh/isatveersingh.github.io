@@ -1,0 +1,65 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Top Plate Holes Not Centre",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are holes drilled through the top plates near the edge, not in the centre.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1684 Residential Timber-Framed Construction, clause 6.2.1.4 Notching, Trenching and Holes in Studs and Plates states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Holes in studs and plates shall be located",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "within the middle half of the depth",
+          "bold": true,
+          "italics": true,
+          "decoration": "underline"
+        },
+        {
+          "text": "and breadth of the member respectively, and that a maximum hole of 25mm in diameter may be drilled through the wide face of a plate’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "As these holes are not in the middle half of the frame, these members will have to be properly trimmed/strengthened, or otherwise replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

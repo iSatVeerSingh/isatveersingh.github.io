@@ -1,0 +1,54 @@
+{
+  "category": "Roofing",
+  "itemName": "Roof Tile Pointing Appearance",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible defect in the roof tile pointing that looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s, Guide to Standards and Tolerances clause 6.04 Roof tile pointing states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The pointing is defective if it is not uniform in colour, texture and trowelled off to provide a neat appearance. The rectification of pointing shall match the existing colour and texture as close as practicable’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of roof pointing should be rectified in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

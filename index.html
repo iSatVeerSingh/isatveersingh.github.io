@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inspection Report</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      .loader {
+        width: 48px;
+        height: 48px;
+        border: 5px solid #333;
+        border-bottom-color: transparent;
+        border-radius: 50%;
+        display: inline-block;
+        box-sizing: border-box;
+        animation: rotation 1s linear infinite;
+      }
+
+      @keyframes rotation {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      body {
+        font-family: sans-serif;
+      }
+
+      .messagebox {
+        margin-top: 10px;
+      }
+
+      .wrapper {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 600px;
+        margin-top: 20px;
+        border: 1px solid #333;
+        padding: 20px;
+        border-radius: 10px;
+      }
+
+      #folderSelect {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #fff;
+        color: #333;
+        outline: none;
+        cursor: pointer;
+      }
+
+      .btn {
+        margin-top: 20px;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      .btn:active {
+        background-color: #1770ce;
+      }
+
+      .btn.disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+      }
+      h2 {
+        margin-bottom: 10px;
+      }
+
+      #loader {
+        margin-top: 20px;
+        text-align: center;
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <h2>Inspection Report Generation</h2>
+      <select name="" id="folderSelect">
+        <option value="">Please select a folder</option>
+      </select>
+      <button class="btn" id="submitBtn">Generate Report</button>
+      <div class="messagebox">
+        <p id="message"></p>
+        <p id="secondMessage"></p>
+        <div id="loader">
+          <span class="loader"></span>
+        </div>
+        <p id="itemMessage"></p>
+      </div>
+    </div>
+
+    <script src="./pdfmake.min.js"></script>
+    <script src="./pdf.js"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>

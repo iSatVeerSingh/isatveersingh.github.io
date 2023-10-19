@@ -1,0 +1,44 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Ground Level (During Construction)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The ground level during construction is not sloping away from the building, diverting surface water onto the ground adjacent to the footings, which could cause future slab heave/structural movement issues.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of Part 3.1.3.3 Surface Water Drainage of the BCA, requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘the external finished surface surrounding a slab-on-ground must be drained to move surface water away from a Class 1 building and graded to give a slope of not less than 25mm over the first 1 metre from the building for surfaces that are reasonably impermeable (such as concrete or clay paving); or 50mm over the first 1 metre from the building in any other case’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These ground levels must be properly re-graded to move the surface water away from the footings to ensure the long-term performance of the footings system.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

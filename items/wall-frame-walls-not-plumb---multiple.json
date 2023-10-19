@@ -1,0 +1,59 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Walls Not Plumb - Multiple",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are several walls throughout that have been constructed out of plumb.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "T",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "he Victorian Building Authority’s, Guide to Standards and Tolerances clause 4.02 Verticality or Plumbness of Steel and Timber Frames and Exposed Posts, states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Posts and wall frames are defective if they deviate from vertical by more than 5mm within any 1.8 metre height’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These walls, and the walls that run into them will need to be re-plumbed into their correct position prior to the installation of the plaster.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

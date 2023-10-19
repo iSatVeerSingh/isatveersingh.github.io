@@ -1,0 +1,59 @@
+{
+  "category": "Plumbing",
+  "itemName": "Pipe Movement in Frame",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The water pipes need to have silicone or similar installed into the frame holes around the pipe to prevent movement and possible water hammer.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "T",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "he relevant Australian Standard AS 3500 Plumbing and Drainage, Part 1: Water Services, clause 5.4.2 Concealed piping, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Where uninsulated pipes are used, a collar of lagging material or a neutral cure silicone sealant shall be used to fill the annular space’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All pipes that run through the frame must be fully secured in accordance with AS 3500.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

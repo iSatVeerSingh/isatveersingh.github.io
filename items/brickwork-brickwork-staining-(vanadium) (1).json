@@ -1,0 +1,74 @@
+{
+  "category": "Brickwork",
+  "itemName": "Brickwork Staining (Vanadium)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The timber wall framing is in direct contact with the brickwork, which will allow moisture from the brickwork to be transferred into the unprotected wall framing members, causing them to rot.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard, AS 3700 Masonry Structures, in section 4.7 Prevention of Moisture Penetration, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘In cavity walls and masonry veneer walls, cavities with a width of at least 40 mm, which are properly detailed and constructed, shall be regarded as being resistant to the passage of moisture from the exposed face through to the inner, unexposed face of the wall. Where insulating material is placed in a cavity, appropriate measures shall be taken to ensure that the moisture resistance of the wall is maintained’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and also that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The cavities shall be free of obstruction that would allow moisture across the cavity, clean and continuous, and not bridged other than by ties or accessories, flashings, doors, windows, head jambs and sills’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These walls will need to be reconstructed to ensure that moisture from the brickwork cannot be transferred into the unprotected wall frames.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

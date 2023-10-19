@@ -1,0 +1,74 @@
+{
+  "category": "Doors",
+  "itemName": "Door Frame Split",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The timber door frame in this area has been split, which may worsen over time, and looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 12.04 Mechanical Damage and Natural Defects in Surfaces states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Holes and any other unfilled depressions in paint or stained timber such as surface defects caused by mechanical damage, natural characteristics such as gum pockets or surface splits are defects if they can be seen from a normal viewing position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder warrants that the work will be carried out in",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘a proper and workmanlike manner’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘with reasonable care and skill’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", which is not the case in this area, and should be replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

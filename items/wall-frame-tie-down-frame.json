@@ -1,0 +1,54 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Tie Down Frame",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The tie down from the roof, down through the walls/floor is not continuous down to the slab.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Clause 9.6 Specific Tie-Down Fixing of AS 1684 Residential Timber-Framed Construction, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Continuity of tie-down shall be provided from the roof sheeting to the foundations’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of these framing members will need to be properly strapped and tied to each other so that the sheet roof can resist the expected uplift from wind loads.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

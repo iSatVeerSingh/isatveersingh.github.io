@@ -1,0 +1,39 @@
+{
+  "category": "Plumbing",
+  "itemName": "Sewer Blockage",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There appears to be building debris in the sewer drainage system in this area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The sewer drainage system will need to be properly cleaned, and should be fully checked with a pipe inspection camera to confirm there are no further defects or issues with the system. The owner should request copies of the camera footage from the builder for their own records.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

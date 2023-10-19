@@ -1,0 +1,109 @@
+{
+  "category": "Plasterboard",
+  "itemName": "Control Joint (External Ceiling)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The external ceiling is greater than 6m long, and there has not been a plaster control joint installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances states in section 9.11 Plasterboard Sheeting, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The installation and jointing of plasterboard sheeting systems is defective if it does not conform to AS/NZS 2589 and the manufacturer’s installation instructions’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall sheet manufacturer’s installation manual states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Plasterboard linings are not designed to withstand stresses due to structural movements or excessive changes in temperature or humidity. potential stress build up and cracking can be minimised by incorporating control joints’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Provide control joints in external ceilings at maximum 6m intervals in both directions’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". The manufacturer also warns that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Ceiling battens should be discontinued at control joint locations’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder should either install a control joint or similar to this area, or provide the owners with a warranty specific to this issue to protect them from and potential future issues/cracking that may occur as a result of omitting the control joints.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

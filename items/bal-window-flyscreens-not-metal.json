@@ -1,0 +1,44 @@
+{
+  "category": "BAL",
+  "itemName": "Window Flyscreens Not Metal",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The window flyscreens installed to the windows are made from nylon, which is not BAL rated, and will provide no protection in a bushfire event.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3959 Construction of Buildings in Bushfire-Prone Areas, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Where fitted, screens for windows and doors shall have a mesh or perforated sheet with a maximum aperture of 2mm, made of corrosion-resistant steel, bronze or aluminium. Gaps between the perimeter of the screen assembly and the building element to which it is fitted shall not exceed 3mm’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These window flyscreens must be replaced with the correct type to comply with the requirements of AS 3959 Construction of Buildings in Bushfire-Prone Areas.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

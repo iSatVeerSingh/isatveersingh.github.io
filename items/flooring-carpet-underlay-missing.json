@@ -1,0 +1,69 @@
+{
+  "category": "Flooring",
+  "itemName": "Carpet Underlay Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The carpet in this area has not had any underlay installed, which is contrary to good installation practices, and is likely to be contrary to the builder specifications that include underlay to the carpeted areas.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Although the builder may claim that this is “normal practice”, we only see it occasionally, and consider it to be poorly finished/unfinished at best, and possibly even deceptive.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder warrants that the work will be carried out in",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘a proper and workmanlike manner’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘with reasonable care and skill’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", which is not the case in this area. Therefore, this carpet should have the required underlay installed to all missing areas prior to handover.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Post Beams Not Bolted",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The roof & floor beams have not all been tied or bolted to the post supporting them.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of Australian Standard AS 1684 Residential Timber-Framed Construction, clause 9.5 Nominal Fixings (Minimum Fixings), that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Verandah beams and roof beams shall be joined to posts with 1/M12 or 2/M10 bolts’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Posts shall be joined to bearers or joists with 1/M12 or 2/M10 bolts’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The fixing and tie-down detail of these beams, posts and joists must be properly rectified in compliance with the above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

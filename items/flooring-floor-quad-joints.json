@@ -1,0 +1,39 @@
+{
+  "category": "Flooring",
+  "itemName": "Floor Quad Joints",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The joints of the floor quad in this area has been poorly finished and needs to be rectified.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The joints in this section should be rectified prior to handover.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

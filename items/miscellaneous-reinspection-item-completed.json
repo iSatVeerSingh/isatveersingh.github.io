@@ -1,0 +1,39 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Reinspection Item Completed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The following item from our previous inspection report has been completed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item has been completed, and can be omitted from the list of outstanding items.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

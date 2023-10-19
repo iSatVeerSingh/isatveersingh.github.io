@@ -1,0 +1,39 @@
+{
+  "category": "Windows",
+  "itemName": "Infills Required",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are gaps around the window and door frames that need an infill to prevent water and pest ingress.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Infills should be installed to match the material and colour of the window and door frames.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

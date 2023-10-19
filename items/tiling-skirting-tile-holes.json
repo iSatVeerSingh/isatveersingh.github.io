@@ -1,0 +1,64 @@
+{
+  "category": "Tiling",
+  "itemName": "Skirting Tile Holes",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are visible holes in the skirting tiles, which looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 11.06 Grouting and joints states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Finished grout is defective if it is not uniform in colour, smooth, without voids, pinholes or low spots’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The tile grouting holes will need to be rectified in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Painting",
+  "itemName": "Robe/Linen Ceiling Colour",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The ceilings and cornices in the robe/linen cupboards have been painted in the wall colour, not the ceiling and cornice colour, which is likely specified in the contract documents.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder should ensure that these areas are painted in accordance with the contract documents.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

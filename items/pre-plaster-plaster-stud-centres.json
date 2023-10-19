@@ -1,0 +1,59 @@
+{
+  "category": "Pre-Plaster",
+  "itemName": "Plaster Stud Centres",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The studs in this area are spaced at greater than 600mm centres, which will not properly support the plasterboard sheets.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standards AS 1684 and AS 2589.1, and the plaster manufacturer all require that the wall framing members be spaced at maximum 600mm centres for wall plasterboard.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "A stud, or trimmers will need to be installed so that the plasterboard sheets can be securely fixed to the framing at their required centres.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

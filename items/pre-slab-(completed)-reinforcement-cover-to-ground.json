@@ -1,0 +1,64 @@
+{
+  "category": "Pre-Slab (COMPLETED)",
+  "itemName": "Reinforcement Cover to Ground",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The reinforcing steel has been properly installed with adequate clearance to the vapour barrier membrane, which is in contact with the ground.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of section 5.3.2 Reinforcement of AS 2870 Residential Slabs and Footings, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Reinforcement in rafts and slabs shall be placed with minimum concrete cover of 30mm to a membrane in contact with the ground’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of the steel reinforcement has been checked, and has adequate clearance to the ground. Any areas where deficiencies were identified have been addressed, with the area ready for concrete to be poured.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

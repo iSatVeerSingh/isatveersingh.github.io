@@ -1,0 +1,69 @@
+{
+  "category": "Pre-Plaster",
+  "itemName": "Not Watertight",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible crack/hole that will allow water ingress, which could damage the insulation and plasterboard linings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s, Guide to Standards and Tolerances clause 6.01 Leaks in roofing, flashings and accessories states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Roofing, including flashings and accessories, is defective if it leaks under normal weather conditions and is due to the builder’s workmanship, causes unhealthy or dangerous conditions, loss of amenity for occupants, undue dampness or deterioration of building elements’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". Additionally, the plasterboard manufacturers warn that all plasterboard materials must be kept dry and buildings should be sealed against water ingress before plasterboard is installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The entire roof should be fully checked to ensure that all cracks, holes and leaks are rectified prior to the installation of plasterboard.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

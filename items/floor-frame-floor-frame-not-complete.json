@@ -1,0 +1,39 @@
+{
+  "category": "Floor Frame",
+  "itemName": "Floor Frame Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The floor frame in this area is still under construction and is not completed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area of floor framing must be completed as shown in the construction drawings and engineering, prior to works in this area proceeding any further. It should be noted that we were unable to fully check the area during this inspection.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

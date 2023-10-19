@@ -1,0 +1,39 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Wall Frame Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall frame in this area is still under construction, and is not complete.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of wall must be completed as shown on the construction drawings prior to works in this area proceeding any further. It should be noted that we were unable to fully inspect this area during this inspection, as the frame is not fully completed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

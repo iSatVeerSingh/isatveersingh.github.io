@@ -1,0 +1,39 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Garage Door Seal Gaps",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are inconsistent gaps visible between the main garage door and the concrete slab, which looks poorly finished and will allow water and pest ingress.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The garage door/seal will need to be adjusted to ensure a consistent tight fit along the bottom of the door to the slab prior to handover.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

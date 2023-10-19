@@ -1,0 +1,74 @@
+{
+  "category": "Cleaning",
+  "itemName": "Cleaning (Meter Box)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The electrical meter box needs to be cleaned out to remove the excess debris and rubble.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 18.08 Cleaning, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Owners are entitled to expect that the building site and works are clean and tidy on completion’,",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "and that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Building sites are defective if, upon handover, that are not clear of building debris’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The electrical meter box will need to be properly cleaned in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

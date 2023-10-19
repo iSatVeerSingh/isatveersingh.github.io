@@ -1,0 +1,44 @@
+{
+  "category": "Box Gutter",
+  "itemName": "Box Gutter Change of Direction",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The box gutter in this area has been constructed with a change of direction, creating a weak point in the gutter design that is susceptible to leaking.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Box Gutter Design Fact Sheet states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Box gutters must discharge at the downstream end without change in direction (i.e. not to the side)’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This box gutter must be re-constructed to ensure proper water discharge in accordance with Australian Standard AS 3500 – Plumbing and Drainage.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

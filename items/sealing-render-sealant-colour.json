@@ -1,0 +1,64 @@
+{
+  "category": "Sealing",
+  "itemName": "Render Sealant Colour",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The sealant colour does not properly match the render, which looks poorly finished, and detracts from the overall finish.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 9.07 Covering movement control joints and damp-proof courses, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Unless documented otherwise, flexible mastic or sealant is defective if it does not match as close as practicable the colour of the adjacent surface and has not been used in accordance with the manufacturer’s installation instructions’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The sealant in this area will need to be removed and replaced at these control joints in accordance with the above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

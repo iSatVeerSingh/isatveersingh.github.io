@@ -1,0 +1,54 @@
+{
+  "category": "Downpipe",
+  "itemName": "Downpipe Buried",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The downpipe has been finished down below the future finished ground height.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "BlueScope Steel, the manufacturer of Colorbond steel state in the Technical Bulletin CTB-16 Immersion, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The construction of gardens adjacent to buildings or fencing by placing soil directly against Zincalume steel or Colorbond steel is specifically not recommended as corrosion and perforation of the steel will rapidly occur above the point of immersion’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This downpipe needs to be shortened up above the finished height of the future ground level, and the stormwater system extended up to meet it.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

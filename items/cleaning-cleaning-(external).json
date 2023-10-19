@@ -1,0 +1,64 @@
+{
+  "category": "Cleaning",
+  "itemName": "Cleaning (External)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This building site still has excess building materials, debris and rubble across its outside areas.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 18.08 Cleaning, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Owners are entitled to expect that the building site and works are clean and tidy on completion’, and that ‘Building sites are defective if, upon handover, that are not clear of building debris’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The entire site will need to be properly cleaned in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

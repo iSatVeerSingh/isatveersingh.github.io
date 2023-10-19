@@ -1,0 +1,39 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Steel Column Structural Grout",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a gap between the steel column and concrete slab, resulting in the base plate not being fully supported, which will need to be filled using a non-shrink structural grout product.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are often details or notes provided for this specific detail in the engineering documents, which should be followed. Alternatively, the builder should confirm with the engineer which non-shrink structural grout product (or similar) would be suitable for this rectification, prior to the works being carried out.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

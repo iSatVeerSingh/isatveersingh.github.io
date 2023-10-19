@@ -1,0 +1,64 @@
+{
+  "category": "Plumbing",
+  "itemName": "Water Hammer",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is water hammer (noisy water pipes) present in this area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 7.07 Water hammer, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Water hammer is defective if it is caused by the builder’s workmanship’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The plumbing in this area will need to be rectified to remove any water hammer from the pipework.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

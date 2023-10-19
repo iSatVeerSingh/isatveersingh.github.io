@@ -1,0 +1,65 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Ground Height (General)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The finished ground height has been finished too high up the face of the wall.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 4773.2 Masonry in Small Buildings – Construction, clause 14.8.2 Damp-proof courses requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Damp-proof courses (DPCs) shall be provided to protect all masonry against rising ground water. The DPC shall be placed as low as possible in the wall and in no case higher than the finished floor level’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". And additionally, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The position of the DPC shall be not less than;",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "150 mm above the adjacent finished ground level",
+          "bold": true,
+          "italics": true,
+          "decoration": "underline"
+        },
+        {
+          "text": "; or 100 mm above sandy well-drained areas that extend to the full depth of the footing system; or 75 mm above the finished paved or concreted area; or 50 mm above finished paved or concreted area and protected from the direct effect of the weather by a carport, veranda or similar structures’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The present finished ground height must be lowered to 150mm below the DPC, as described above, and graded to fall away from the building as required by the Australian Standards.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

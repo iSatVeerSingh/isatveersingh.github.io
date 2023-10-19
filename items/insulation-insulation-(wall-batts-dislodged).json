@@ -1,0 +1,64 @@
+{
+  "category": "Insulation",
+  "itemName": "Insulation (Wall Batts Dislodged)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall insulation batts have dislodged from between the studs.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3999 Thermal Insulation of Dwellings - Bulk Insulation - Installation Requirements, states in section 3.2 (d)",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Bulk insulation shall be restrained where it may fall or slide out of position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The missing batts must be fully installed and properly restrained into position prior to plaster installation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Nogging Fixings",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are noggings that have not been adequately nailed to the wall studs.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1684 Residential Timber-Framed Construction requires in section 9.5 Nominal Fixings that noggings to studs be skew or through nailed with at least 2/75mm nails.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additional nails must be installed into these noggings in accordance with AS1684.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

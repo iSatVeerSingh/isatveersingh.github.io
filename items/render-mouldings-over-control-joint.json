@@ -1,0 +1,64 @@
+{
+  "category": "Render",
+  "itemName": "Mouldings Over Control Joint",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The rendered feature mouldings have been installed and fixed across the movement/control joints, which will likely result in cracking.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 9.07 Covering movement control joints and damp-proof courses, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Mouldings and inflexible covering strips are defective if they are installed across movement control joints and are fixed or restrained on both sides’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area will need to be rectified and re-rendered to ensure that the cracking does not appear in accordance with the above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

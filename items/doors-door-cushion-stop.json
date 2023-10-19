@@ -1,0 +1,39 @@
+{
+  "category": "Doors",
+  "itemName": "Door Cushion Stop",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This door has not been fitted with a cushion stop to prevent it from hitting other building elements, which could damage both.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This door should be fitted with a cushion stop to prevent any damage/further damage.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

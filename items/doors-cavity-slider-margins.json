@@ -1,0 +1,39 @@
+{
+  "category": "Doors",
+  "itemName": "Cavity Slider Margins",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The cavity slider door has not been installed to allow the door to fit properly up against the door jamb, and now a gap is visible along the door frame.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This door must be adjusted to allow the door to fit tightly against the frame in accordance with the manufacturer’s installation documents.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

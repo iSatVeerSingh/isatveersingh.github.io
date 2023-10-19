@@ -1,0 +1,54 @@
+{
+  "category": "BAL",
+  "itemName": "BAL Weephole Covers",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are proprietary BAL weephole covers that have not been removed from the brickwork around this dwelling, which will not allow the brick cavities to drain.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard, AS 4773 - Masonry for Small Buildings requires in clause 10.5.3 Flashings and Weepholes, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Cavity flashing shall be drained by weepholes at 1200mm maximum centres’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder must remove these covers to allow the cavities to drain in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

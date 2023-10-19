@@ -1,0 +1,39 @@
+{
+  "category": "Electrical",
+  "itemName": "Fitting Not Flush to Ceiling",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The fitting in this area has not been installed flush/hard up to the ceiling.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be rectified to ensure that all fittings are installed in accordance with manufacturer’s installation instructions.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "category": "Truss Frame",
+  "itemName": "Brickwork Joints Damaged",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The brickwork in this area has been over-cleaned during the brick cleaning process, leaving the mortar joints pitted and inconsistent, which detracts from the overall finish of the brickwork.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 3.08 Mortar for masonry states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Mortar is defective if it is not in accordance with the requirements of the Building Code of Australia or the contract specifications’,",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "and in clause 3.18 Raking of Joints states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Mortar joints in masonry units are defective if they are raked out to a depth of more than 10mm or are not consistent in depth throughout’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These defective mortar joints must be rectified in accordance with above, which will likely require that they be re-pointed with care to ensure that the repairs match the surrounding areas.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "category": "Roofing",
+  "itemName": "Roof Tile Pointing Hole",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible hole in the roof tile pointing that will possibly allow water leaks, which could damage the insulation and ceiling linings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s, Guide to Standards and Tolerances clause 6.01 Leaks in roofing, flashings and accessories states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Roofing, including flashings and accessories, is defective if it leaks under normal weather conditions and is due to the builder’s workmanship, causes unhealthy or dangerous conditions, loss of amenity for occupants, undue dampness or deterioration of building elements’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". Additionally, clause 6.04 Roof tile pointing states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Unless documented otherwise, the absence of pointing where required is defective. Pointing is defective if it becomes dislodged or washed out. The pointing is defective if it is not uniform in colour, texture and trowelled off to provide a neat appearance. The rectification of pointing shall match the existing colour and texture as close as practicable’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The entire roof should be fully checked to ensure that all cracks, holes and leaks are rectified.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

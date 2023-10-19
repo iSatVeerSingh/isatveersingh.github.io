@@ -1,0 +1,59 @@
+{
+  "category": "Contract",
+  "itemName": "Contractual Concerns",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The owner has raised concerns that certain areas have not been constructed as it is documented in the contract documents.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Issues related to building contracts are generally outside of our scope. However, for the builder to reach completion, at which point they are entitled to receive final payment, they must have completed all of their requirements under the Building Act and provided you with a copy of the Occupancy Permit. They must also have completed your home in a proper and workmanlike manner and in accordance with the plans and specifications.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Until the builder has achieved full compliance with these warranties, the works remain incomplete, and the builder would not be entitled to receive final payment. The outstanding item documented above must be properly addressed by your builder for your home to reach completion.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

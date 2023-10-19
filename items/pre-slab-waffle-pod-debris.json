@@ -1,0 +1,44 @@
+{
+  "category": "Pre-Slab",
+  "itemName": "Waffle Pod Debris",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is loose waffle pod debris in areas throughout the base, which will reduce the effective beam sizes and minimum concrete cover around the steel reinforcement.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of section 5.3.2 Reinforcement of AS 2870 Residential Slabs and Footings, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Reinforcement in rafts and slabs shall be placed with minimum concrete cover of 20mm to an internal surface’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The waffle pod debris in these areas must be completely cleaned out prior to pouring concrete.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

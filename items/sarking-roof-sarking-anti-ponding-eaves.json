@@ -1,0 +1,64 @@
+{
+  "category": "Sarking",
+  "itemName": "Roof Sarking Anti-Ponding Eaves",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The sarking that has been installed under the roof tiles of this home has been left sagging down behind the fascia, stopping the moisture and water that collects on it from properly draining into the gutters.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Australian Standard AS 4200.2 Pliable Building Membranes and Underlays, Part 2: Installation Requirements, clause 6.2 Treatment of Eaves, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The pliable building membrane shall be installed in a manner which will ensure it can drain into eaves gutters any water which it collects, and that no ponding occurs’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The present sarking installation must be rectified so that there is no longer any sagging in it behind the fascia, and so that it does not have the ability to sag in the future. This will require it to be supported on an anti-ponding board or the like for the roof of this home to comply with the requirements of the NCC’s Building Code of Australia (BCA) and Australian Standards.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Electrical",
+  "itemName": "Light Not Working",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The light fitting in this area appears to be faulty/not working, which will require the builder to investigate further and rectify as needed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be rectified prior to handover.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

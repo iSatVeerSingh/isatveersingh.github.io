@@ -1,0 +1,39 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Damaged Gate",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The section of the gate has been damaged, which appears to be due to the work the builder has undertaken which will require the section of the fence to be repaired/replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be rectified prior to handover.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

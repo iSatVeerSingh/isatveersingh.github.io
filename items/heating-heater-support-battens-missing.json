@@ -1,0 +1,39 @@
+{
+  "category": "Heating",
+  "itemName": "Heater Support Battens Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The heater platform has not been installed on battens/joists to spread the load across all heater trusses. Instead, the majority of the weight of the heater is loaded onto just one truss, which may not have been designed to carry the weight.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder should confirm with the truss manufacturer to ensure that this installation is acceptable. The owner should request evidence of this for their own records.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

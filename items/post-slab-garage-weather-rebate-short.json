@@ -1,0 +1,54 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Garage Weather Rebate Short",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The rebate along the edge of the garage slab does not extend to the sides of the garage door, which will not allow the door to close up tight to the rebate, and will not allow water to be diverted away from the door and prevent ingress into the garage.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 1.02 Finish to External Paving states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Concrete paving finish is defective if it is not consistent in colour, texture and general appearance’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", while clause 2.11 Finish to Concrete Slabs states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The finish to a concrete slab is defective if it is not suitable for the documented applied finishes such as tiles, polished concrete, carpet or sheet flooring, including set downs where required’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This weather rebate must be extended to the full width of the garage door, with care taken to keep consistency in the finish, as any repair must match the existing floor as closely as practical, which may likely require this slab be re-topped (a thin concrete screed applied).",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

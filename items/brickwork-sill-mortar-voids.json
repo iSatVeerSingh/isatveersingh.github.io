@@ -1,0 +1,89 @@
+{
+  "category": "Brickwork",
+  "itemName": "Sill Mortar Voids",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are voids and holes in the finished faces of the mortar joints of the window/door sills.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 3.09 Voids and Holes in Mortar, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Voids and holes in mortar in masonry walls, excepting weepholes and vents, are defects if they are visible from a normal viewing position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, Australian Standard AS 4773 - Masonry for Small Buildings requires in clause 11.7.1 that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘All mortar joints shall be tooled and shall be free of cracks and holes’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These voids and holes need to be properly patched prior to the affected areas being re-cleaned. Care must be taken (which may require tests/samples) to ensure that the colour and texture of any mortar repairs match the existing areas as closely as possible.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

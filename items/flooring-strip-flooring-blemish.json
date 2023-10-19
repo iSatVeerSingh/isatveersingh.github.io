@@ -1,0 +1,64 @@
+{
+  "category": "Flooring",
+  "itemName": "Strip Flooring Blemish",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible blemish in the finished timber flooring.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 14.02 Timber flooring, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Ghosting, where blemishes appear beneath the finish coat, is defective when visible from a normal viewing position’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This will need to be rectified in accordance with the above requirement, which will require the entire area be sanded and re-finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

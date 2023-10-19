@@ -1,0 +1,39 @@
+{
+  "category": "Electrical",
+  "itemName": "Downlight Not Flush",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are areas where the downlight fittings have not been installed flush/hard up to the ceiling.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be rectified to ensure that all downlight fittings are installed in accordance with manufacturer’s installation instructions.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

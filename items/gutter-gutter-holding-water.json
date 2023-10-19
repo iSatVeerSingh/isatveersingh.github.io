@@ -1,0 +1,64 @@
+{
+  "category": "Gutter",
+  "itemName": "Gutter Holding Water",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The gutter has not been installed with fall in the direction of the outlet, which is holding water and has the potential to leak as the silicone and rivets break down over time.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": true,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s, Guide to Standards and Tolerances clause 7.03 Water retention in gutters states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Gutters are defective if they retain a depth of more than 10 mm of water’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". It also states in clause 7.04 Joints in gutters that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Joints that leak are defective’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of gutter must be properly rectified so it cannot leak.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

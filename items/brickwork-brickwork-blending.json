@@ -1,0 +1,99 @@
+{
+  "category": "Brickwork",
+  "itemName": "Brickwork Blending",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The bricks in this area have not been properly blended, which detracts from the overall finish of the area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 3.06 Blending and matching of masonry - new work states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘To avoid inconsistency in appearance, where practicable, masonry units for the building should be obtained from the same batch’,",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "and that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Masonry areas that vary in colour are defective if the units are not mixed and/or distributed in accordance with the manufacturer’s installation instructions’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, all brick manufacturers provide instructions on blending of their products on the brick packs themselves, and is easily available online, such as this instruction taken from Astral’s website that states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘To ensure that colour variation from one pack to the next is dealt with correctly, we advise that the bricks are blended (mixed among themselves) during laying. The advised method to do this is to select units from down and across three to six open packs to ensure an even colour distribution across the surface’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These areas will need to be reconstructed so that the brick units are blended properly.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

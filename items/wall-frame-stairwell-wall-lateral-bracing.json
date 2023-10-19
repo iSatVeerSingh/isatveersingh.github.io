@@ -1,0 +1,39 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Stairwell Wall Lateral Bracing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The end of the timber-framed balustrade wall at the top of the stair contains no lateral restraint or bracing to keep it securely into its vertical position.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be properly rectified prior to plasterboard installation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

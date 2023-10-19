@@ -1,0 +1,59 @@
+{
+  "category": "Pre-Plaster",
+  "itemName": "Electrical Rough-In Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The roughing in of the electrical (power, lighting & data etc.) cabling has not been completed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "We recommend inspecting these works after they are completed (prior to plasterboard installation), as often structural framing is cut through or damaged, or building codes are not properly followed with the installation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder should properly complete the installation of these services prior to plasterboard installation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

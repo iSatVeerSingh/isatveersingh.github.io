@@ -1,0 +1,64 @@
+{
+  "category": "Flooring",
+  "itemName": "Flooring Sheet Layout",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The sheet flooring has not been installed so the sheets are staggered.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1860.2 Particleboard Flooring – Installation in section 9.1 Panel Installation – General Requirements states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘end joints shall be staggered’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "As the walls have been installed over the flooring sheets, reconstructing this area is not practical, therefore the builder should consult with the flooring manufacturer to confirm what (if anything) should be done.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

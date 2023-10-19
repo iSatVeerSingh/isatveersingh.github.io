@@ -1,0 +1,64 @@
+{
+  "category": "Fixing",
+  "itemName": "Quad Required (Architrave Gap)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is an oversized/inconsistent gap at the side of the architrave in this area where a quad mould should be installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 10.01 Gaps associated with internal fixing states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Unless documented otherwise, gaps between mouldings or between mouldings and other fixtures, at mitre or butt joints, or at junctions with a wall or other surfaces, are defective if they exist at handover, or exceed 1 mm in width within the first 12 months of completion and are visible from a normal viewing position’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The gap in this area must be rectified prior to handover.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

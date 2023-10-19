@@ -1,0 +1,84 @@
+{
+  "category": "Fixing",
+  "itemName": "Quad Required (Internal Gap)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is an oversized/inconsistent gap in this area where a timber quad mould (or similar) should be installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 10.01 Gaps associated with internal fixing states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Unless documented otherwise, gaps between mouldings or between mouldings and other fixtures, at mitre or butt joints, or at junctions with a wall or other surfaces, are defective if they exist at handover, or exceed 1 mm in width within the first 12 months of completion and are visible from a normal viewing position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, the builder warrants that the work will be carried out in",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘a proper and workmanlike manner’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘with reasonable care and skill’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", which is not the case in this area, and should be rectified prior to handover.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

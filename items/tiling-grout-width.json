@@ -1,0 +1,89 @@
+{
+  "category": "Tiling",
+  "itemName": "Grout Width",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The tile grout width is inconsistent, which looks poorly finished, and is below the acceptable standard.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3958.1 Ceramic Tiles - Guide to the Installation of Ceramic Tiles, Clause 5.4.6 - Tile Finish and Joints states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘joint widths should be consistent throughout the installation unless specified’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, the Victorian Building Authority’s Guide to Standards and Tolerances, clause 11.06 Grouting and joints states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Joints are defective if they are not, as far as is practicable, of consistent width and can be seen from a normal viewing position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "As this is clearly visible, the tiling in this area will need to be removed and re-constructed in accordance with the above requirements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

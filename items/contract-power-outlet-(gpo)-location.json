@@ -1,0 +1,59 @@
+{
+  "category": "Contract",
+  "itemName": "Power Outlet (GPO) Location",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The GPO power outlet in this area has not been installed in accordance with the drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item will need to be relocated to reflect the design requirements of the approved drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "For your builder to reach completion, at which point they are entitled to receive final payment, they must have completed all of their requirements under the Building Act and provided you with a copy of the Occupancy Permit. They must also have completed your home in a proper and workmanlike manner and in accordance with the plans and specifications.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Retaining Wall Drain",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The retaining wall drain has not been connected to a legal point of discharge, instead creating conditions where surface water is diverted onto the ground adjacent to the footings, which could cause future slab heave/structural movement issues.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These drains must be connected to the stormwater system in accordance with the engineering documents to ensure that surface water is directed away from the footings to ensure the long-term performance of the footings system.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

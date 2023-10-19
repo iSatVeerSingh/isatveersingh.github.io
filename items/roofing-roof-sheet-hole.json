@@ -1,0 +1,59 @@
+{
+  "category": "Roofing",
+  "itemName": "Roof Sheet Hole",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible hole in the roof that will possibly allow water leaks, which could damage the insulation and ceiling linings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "T",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "he Victorian Building Authority’s, Guide to Standards and Tolerances clause 6.01 Leaks in roofing, flashings and accessories states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Roofing, including flashings and accessories, is defective if it leaks under normal weather conditions and is due to the builder’s workmanship, causes unhealthy or dangerous conditions, loss of amenity for occupants, undue dampness or deterioration of building elements’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The entire roof should be fully checked to ensure that all holes and possible leaks are rectified.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

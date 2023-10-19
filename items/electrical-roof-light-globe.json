@@ -1,0 +1,54 @@
+{
+  "category": "Electrical",
+  "itemName": "Roof Light Globe",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The light in the roof space for safe access has not been fitted with a globe.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Technical Solution Sheet 92.05 states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Permanent artificial lighting must be provided with the switch located adjacent to the access opening’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "A globe must be installed to allow for safe access to the roof area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

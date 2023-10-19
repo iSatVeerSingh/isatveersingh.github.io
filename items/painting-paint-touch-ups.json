@@ -1,0 +1,69 @@
+{
+  "category": "Painting",
+  "itemName": "Paint Touch Ups",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are numerous minor paint defects such as runs, bare areas, cracks, marks and other irregularities that need to be rectified throughout, too many to individually document in this report.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 12.02 Surface Finish of Paintwork, states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Paintwork is defective if application defects or blemishes such as paint runs, paint sags, wrinkling, ",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "dust, bare or starved painted areas, colour variation, surface cracks, irregular and course brush marks, sanding marks, blistering, uniformity of gloss level and other irregularities in the surface are visible from a normal viewing position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of these areas will need to be properly rectified and re-painted.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

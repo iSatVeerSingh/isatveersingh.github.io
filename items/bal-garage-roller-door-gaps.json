@@ -1,0 +1,44 @@
+{
+  "category": "BAL",
+  "itemName": "Garage Roller Door Gaps",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are gaps around the garage roller door, which will allow embers to enter in the event of a bushfire.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3959 Construction of Buildings in Bushfire-Prone Areas, states that ‘",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "Roller doors shall have guide tracks with a maximum gap no greater than 3 mm and shall be fitted with a nylon brush that is in contact with the door’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The present installation of this door and the weather strips must be rectified to comply with these requirements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "category": "Pre-Slab",
+  "itemName": "Crack Control Bars Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There had not been crack control bars installed at all of the re-entrant corners of this slab.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of section 5.3.7 Shrinkage cracking control of AS 2870 Residential Slabs and Footings, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘At re-entrant corners, two strips of 3-L8TM, or one strip of 3-L11TM or 3-N12 bar, shall be placed across the direction of potential cracking. All such reinforcement shall have a minimum length of 2 m’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These crack control re-entrant bars must be installed prior to pouring concrete.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "category": "Post-Slab (COMPLETED)",
+  "itemName": "Slab R.L Height",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The drawings we have been provided with show the house and garage R.L heights, or the FFL (finished floor level), compared to the street (or some other feature), which we have approximately measured, and can confirm that it appears to match what has been documented on the drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It should be noted that we only have basic measuring equipment, so this confirmation is based on our somewhat limited measuring capacity. Should the owner wish to have these heights accurately measured, a land surveyor with their specific measuring equipment will need to be engaged separately, however this is ordinarily not needed or recommended.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 2.07 Finished floor levels states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Finished floor levels (FFL) or reduced levels (RL) are defective where they do not comply with specified planning and/or building permit requirements’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘In other cases, FFL or RL are defective where they depart from the documented RL or FFL by more than 40mm’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item is to confirm that the slab R.L/FFL is correct (within the allowable tolerances), and there is no action required from the builder in relation to this issue.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

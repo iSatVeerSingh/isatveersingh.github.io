@@ -1,0 +1,29 @@
+{
+  "category": "Downpipe",
+  "itemName": "Downpipe Short to Gutter",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The downpipe has been finished short to the gutter at the top, which will not properly collect the stormwater, directing it onto the ground adjacent to the footings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This downpipe should be extended to properly fit into the stormwater system.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

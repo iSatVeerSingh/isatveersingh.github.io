@@ -1,0 +1,64 @@
+{
+  "category": "Plasterboard",
+  "itemName": "Plaster Crack Visible",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible plasterboard crack.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 9.14 Cracking in Plasterboard states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Cracking in walls, ceilings and bulkheads is defective if it exists at handover or occurs within the first 24 months of completion and can be seen from a normal viewing position’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area will have to be properly rectified in accordance with this requirement.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "category": "Waterproofing",
+  "itemName": "Bathroom Floor Fall",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There has not been sufficient fall of 1:100 provided to the bathroom floor, which may result in water ponding, and eventually water leaking.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.8.1.2 of the Building Code of Australia (NCC/BCA) - Wet Areas, states that;",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "‘Building elements in wet areas within a building must-",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "a) ",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "be waterproof or water resistant in accordance with Table 3.8.1.1; and",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "b) ",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "comply with AS 3740’",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3740 Waterproofing of Domestic Wet Areas, in clause 3.3 Falls in floor finishes, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Where required, falls in floor finishes shall allow all surface water to drain without ponding except for residual water remaining due to surface tension. For general bathroom floor area, the minimum fall to the waste shall be 1:100’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The floor of this area will need to be re-constructed to have minimum 1:100 fall, and then be properly waterproofed in accordance with the BCA and AS 3740.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

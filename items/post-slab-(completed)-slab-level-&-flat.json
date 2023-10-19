@@ -1,0 +1,54 @@
+{
+  "category": "Post-Slab (COMPLETED)",
+  "itemName": "Slab Level & Flat",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The slab has been fully checked in all areas with a 2m level, and we can confirm that there are no areas where the slab is out of level or bowed more than the allowable tolerances.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 2.08 Levelness of Concrete Floors, states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘New floors are defective if within the first 24 months of handover they differ in level by more than 10mm in any room or area, or more than 4mm in any 2m length’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item is to confirm that the house slab is generally flat and level (within the allowable tolerances), and there is no action required from the builder at this stage in relation to this issue. It should be noted that some flooring suppliers/manufacturers require that the floor slab be much flatter than the allowable tolerances, however this issue will need to be managed separately by the owner.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

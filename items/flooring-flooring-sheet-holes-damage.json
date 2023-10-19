@@ -1,0 +1,59 @@
+{
+  "category": "Flooring",
+  "itemName": "Flooring Sheet Holes/Damage",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are holes and divots in the top of the sheet flooring where floor coverings are to be installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances states that the substrate must be suitable for the documented applied finishes such as tiles, carpet or sheet flooring, including set downs where required.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These areas must be properly filled or replaced to avoid future low spots in the floor coverings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

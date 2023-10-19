@@ -1,0 +1,64 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Bottom Plate Not Fixed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall bottom plate in this area has not been properly fixed to the floor.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of Australian Standard AS 1684 Residential Timber-Framed Construction, clause 9.5 Nominal Fixings (Minimum Fixings) that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The minimum required fixing of bottom plates to concrete slab is one 75mm masonry nail at not more than 1200mm centres’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additional fixings must be installed in compliance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

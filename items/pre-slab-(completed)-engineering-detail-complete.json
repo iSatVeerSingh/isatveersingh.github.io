@@ -1,0 +1,39 @@
+{
+  "category": "Pre-Slab (COMPLETED)",
+  "itemName": "Engineering Detail Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The engineering design in this area has been installed as detailed in the construction drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of the details as shown on the engineering documents are installed in this area, ready for concrete to be poured.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "category": "Flashing",
+  "itemName": "Parapet Flashing Holding Water",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The parapet capping has not been installed with fall, which is holding water and has the potential to leak.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.5.4.8 Parapet cappings of the NCC’s Building Code of Australia (BCA) states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The top of the capping must slope a minimum of 5 degrees’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". Whereas the Victorian Building Authority’s, Guide to Standards and Tolerances clause 6.01 Leaks in roofing, flashings and accessories states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Roofing, including flashings and accessories, is defective if it leaks under normal weather conditions and is due to the builder’s workmanship, causes unhealthy or dangerous conditions, loss of amenity for occupants, undue dampness or deterioration of building elements’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". It also states in clause 7.11 Parapet flashings/cappings that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Parapet flashings/cappings are defective if a minimum fall of three degrees is not provided across the width of the flashing to divert water runoff from dripping down the fascia and causing unsightly staining’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of flashing must be properly rectified with at least 3-5 degrees fall so it cannot leak.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

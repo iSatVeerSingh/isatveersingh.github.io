@@ -1,0 +1,39 @@
+{
+  "category": "Heating",
+  "itemName": "Return Air Cleaning",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is excess plaster dust and wood shavings in the return air void, which will be drawn into the heating unit when first commissioned, greatly reducing the life of the filters.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area must be properly vacuumed out to ensure long-term performance of the system.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

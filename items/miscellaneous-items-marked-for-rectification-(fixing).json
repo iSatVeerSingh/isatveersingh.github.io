@@ -1,0 +1,39 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Items Marked for Rectification (Fixing)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There were numerous areas where the builder has marked fixing stage related defects for rectification, far too many to be individually documented in this report.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Given that the builder has already identified these fixing stage related items for rectification (which is the purpose of our inspection and report process), it is appropriate that they are given the opportunity to address them, however all of these items must be rectified prior to painting and tiling works proceeding.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

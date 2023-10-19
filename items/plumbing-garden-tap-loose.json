@@ -1,0 +1,39 @@
+{
+  "category": "Plumbing",
+  "itemName": "Garden Tap Loose",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The external garden tap is loose/not properly secured to the wall.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be rectified in accordance with manufacturer’s installation instructions and general workmanship standards.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

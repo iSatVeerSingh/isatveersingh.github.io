@@ -1,0 +1,39 @@
+{
+  "category": "Render",
+  "itemName": "Render Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The render in this area has not yet been completed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be completed in accordance with all relevant building codes and standards.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

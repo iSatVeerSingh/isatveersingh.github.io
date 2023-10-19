@@ -1,0 +1,59 @@
+{
+  "category": "Contract",
+  "itemName": "Light/Fitting Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The electrical light/fitting in this area has not been installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be properly installed and tested prior to completion.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "For your builder to reach completion, at which point they are entitled to receive final payment, they must have completed all of their requirements under the Building Act and provided you with a copy of the Occupancy Permit. They must also have completed your home in a proper and workmanlike manner and in accordance with the plans and specifications.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

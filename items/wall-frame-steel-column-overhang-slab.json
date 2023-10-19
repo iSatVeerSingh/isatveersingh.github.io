@@ -1,0 +1,64 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Steel Column Overhang Slab",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The floor slab has been boxed and poured short along the wall, which has left the steel column that supports the loads above overhanging the edge of the floor slab, which must be properly supported to prevent failure.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The engineering documents on all projects are very clear that steel columns must have full support onto the slab to ensure that loads are properly transferred down. Additionally, the Victorian Building Authority’s Guide to Standards and Tolerances clause 4.08 Bottom Plates that Overhang Concrete Slabs states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Bottom plates that are 90 mm wide or greater and overhang concrete slabs by more than 10 mm are defective’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The original design engineer should be consulted to confirm a rectification design, and this must be completed prior to any further loading on the frame. The owner should request copies of the revised engineering design detail for their records.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

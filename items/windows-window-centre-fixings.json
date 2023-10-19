@@ -1,0 +1,59 @@
+{
+  "category": "Windows",
+  "itemName": "Window Centre Fixings",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There have not been centre packers and fixings for the higher window frames.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The manufacturer’s installation documentation requires that centre fixings are required for any windows 1.8m or higher.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additional packers and fixings must be installed as required by the manufacturer to ensure the long-term performance of these frames.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "category": "Brickwork",
+  "itemName": "Brickwork Mortar Colour",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a noticeable difference in the colour of the mortar used within the walls of the brickwork, with the colour changing from light to dark part-way up the wall, which detracts from the overall finish of this home.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 3.05 Blending and matching of Masonry – Repair Work states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Mortar repairs should be carried out to match existing mortar as closely as practical’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These areas will have to be rectified so that the mortar joints are consistent throughout.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

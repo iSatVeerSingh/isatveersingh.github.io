@@ -1,0 +1,39 @@
+{
+  "category": "Flooring",
+  "itemName": "Flooring Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The flooring installation has not been fully completed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This flooring must be properly completed (and should be inspected) prior to works in this area continuing any further.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

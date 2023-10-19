@@ -1,0 +1,39 @@
+{
+  "category": "Electrical",
+  "itemName": "Exhaust Fan Not Flush",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The exhaust fan in this area has not been installed flush/hard up to the ceiling.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be rectified to ensure it is installed in accordance with manufacturer’s installation instructions.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

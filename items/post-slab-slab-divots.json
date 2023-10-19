@@ -1,0 +1,44 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Slab Divots",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are holes and divots in the top of the concrete slab where floor coverings are to be installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 2.11 Finish to Concrete Slabs, states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The finish to a concrete slab is defective if it is not suitable for the documented applied finishes such as tiles, polished concrete, carpet or sheet flooring, including set downs where required’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These areas must be properly filled to flush with the surrounding surfaces to avoid future low spots in the floor coverings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

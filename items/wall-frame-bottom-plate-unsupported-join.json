@@ -1,0 +1,44 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Bottom Plate Unsupported Join",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are joins in the bottom plates that have not been supported by a joist or solid blocking.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1684 Residential Timber-Framed Construction, clause 6.2.2.2 Bottom Plates states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Bottom plates may be butt-jointed provided both ends are fixed and supported by floor joists, solid blocking or a concrete slab’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This bottom plate join must be properly supported to comply with the above standard.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "category": "Brickwork",
+  "itemName": "Brickwork Staining (Acid)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are sections of brickwork that are displaying rust like deposits on the faces of the mortar joints due to acid staining.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are a number of causes of this problem, the most common being when too much acid and not enough water is used in the initial clean, which causes a reaction between the acid and the brick’s clay base to be absorbed into the mortar joints.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 3.11, Cleaning, Mortar Smears & Stains states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Stains, mortar smears and damage caused by cleaning are defects if they are visible from a normal viewing positioning’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These areas should be properly re-cleaned with a product approved by the brick manufacturer to remove this staining, with care to ensure that the brickwork and mortar joints are not damaged.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

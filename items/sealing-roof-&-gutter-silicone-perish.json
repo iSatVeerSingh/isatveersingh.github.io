@@ -1,0 +1,39 @@
+{
+  "category": "Sealing",
+  "itemName": "Roof & Gutter Silicone Perish",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder has used a “roof and gutter” type silicone in this area, which is very likely to discolour and perish over time, which will look poorly finished, and may allow water or pest ingress.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This silicone should be replaced with an exterior grade caulking to match the colour of the surrounding area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

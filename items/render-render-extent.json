@@ -1,0 +1,64 @@
+{
+  "category": "Render",
+  "itemName": "Render Extent",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The render has not been applied in accordance with the contract documents, which looks poorly finished, and detracts from the overall finish.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 9.09 Rendered surfaces, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Rendered or hard plastered surfaces are defective if they do not conform to the documented surface, sample or description’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "In order for the builder to reach completion, they must have completed the works in a proper and workmanlike manner and in accordance with the plans and specifications. Therefore, these areas must be rendered to match the contract documents in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

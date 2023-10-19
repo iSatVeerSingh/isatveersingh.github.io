@@ -1,0 +1,59 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Trim Slab Blowouts",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The perimeter of the slab edge beam has various sized concrete blowouts and overspills attached to them. These overspills have left the vapour barrier in a horizontal orientation, which now cannot be wrapped up the side faces of the edge beams in its true vertical position as detailed within the NCC’s Building Code of Australia (BCA) and Australian Standard AS 2870 Residential Slabs and Footings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is our advice that the inconsistent widths of these overspills result in inconsistent bearing capacities along the length of the external walls and will be problematic as they increase the effective footing width in random areas. These overspills will also remain below the future finished ground level allowing water to accumulate on top of them and prevent normal evaporation drying of the subsoil moisture.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Overspills prevent expanding soil from sliding past the normally vertical edge beam and it follows that these wider areas of edge beams can be lifted with less soil expansion forces than the areas that do not have them. It must be noted that all footings in the BCA and AS 2870 Residential Slabs and Footings are shown with edges of their footings vertical and without overspill.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of the overspills must be removed from the edges of the edge beams, including those areas that have now had soil backfilled over them. The builder should have the original design engineer make recommendations on how this work should be carried out to ensure the slab’s long-term performance.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The owner should ensure that any rectification work is carried out under the full supervision and approval of the original design engineer and relevant building surveyor.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

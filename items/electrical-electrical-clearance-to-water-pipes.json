@@ -1,0 +1,54 @@
+{
+  "category": "Electrical",
+  "itemName": "Electrical Clearance to Water Pipes",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The water pipes are crossing, or in direct contact with the electrical wiring.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS/NZS 3000 Wiring Rules, clause 3.9.8.4 Proximity to Non-Electrical Services states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Wiring systems shall maintain a separation of not less than 25mm from any above ground water piping for cable not in a conduit’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These water pipes and the electrical wiring need to be separated from each other at all locations.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "category": "Electrical",
+  "itemName": "Exhaust Fan Not Ducted",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is no evidence that the exhaust fan installed in this area has been ducted through into the outside air, and appears to only ventilate into the floor/roof space.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The NCC’s Building Code of Australia (BCA) states in section 3.8.7.3 - Flow rate and discharge of exhaust systems, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Exhaust from a bathroom, sanitary compartment, or laundry must be discharged;",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "a. ",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "directly or via a shaft or duct to outdoor air; or",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "b. ",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "to a roof space that is ventilated in accordance with 3.8.7.4’",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Section 3.8.7.4 - Ventilation of roof spaces, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Where an exhaust system covered by 3.8.7.3 discharges into a roof space, the roof space must be ventilated to outdoor air through evenly distributed openings’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This fan must be confirmed as exhausting directly out to the external air or otherwise rectified to do so in accordance with the requirements of the BCA.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

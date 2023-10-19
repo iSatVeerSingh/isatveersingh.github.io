@@ -1,0 +1,39 @@
+{
+  "category": "Plasterboard",
+  "itemName": "Plasterboard Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The plasterboard in this area has not yet been installed, and was unable to be properly inspected to ensure it is straight, level and installed in accordance with the manufacturer’s requirements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This plasterboard must be properly installed in accordance with the manufacturer’s installation instructions, all relevant Australian Standards, and the NCC’s Building Code of Australia.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

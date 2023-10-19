@@ -1,0 +1,59 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Engineering Bolts Loose",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This engineered connection has not been constructed as detailed on the engineering drawings, with loose bolts and nuts, which could cause a failure of the area if not properly tightened.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder warrants that the work will be carried out in",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘a proper and workmanlike manner’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘with reasonable care and skill’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", which is not the case in this area, and will require these bolts be properly tightened in accordance with the requirements of the engineering.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

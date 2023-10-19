@@ -1,0 +1,39 @@
+{
+  "category": "Pre-Plaster",
+  "itemName": "Masonite Packers Not Fixed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are masonite packers that have not been properly fixed/fastened to the wall studs, which will result in the plasterboard walls being drummy, as they are only glued to these packers/studs.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of these packers must be properly fastened to the wall studs at 150mm centres to ensure proper installation of the plasterboard.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

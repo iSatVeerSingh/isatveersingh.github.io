@@ -1,0 +1,54 @@
+{
+  "category": "Contract",
+  "itemName": "Building Dimensions (Fixture & Fitting)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The construction of this area appears to be insufficient to accommodate the fixture/fitting.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 2.03 Setting out the site states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘A building set out is defective where the set out has failed to comply with the requirements of the approved drawings’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and clause 2.06 Building dimensions states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Departures from documented set out for external elements such as garages, carports, verandahs, decks, patios, etc. are defects if they exceed L/100 or 5 mm, whichever is the greater, where L is the documented dimension’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "As this discrepancy is greater than the maximum allowable dimensions stated above, this area must be rectified/reconstructed in accordance with the contract documents.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

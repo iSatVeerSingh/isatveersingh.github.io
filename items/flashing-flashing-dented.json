@@ -1,0 +1,39 @@
+{
+  "category": "Flashing",
+  "itemName": "Flashing Dented",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible dent in the flashing, which looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": true,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of flashing should be replaced with a new one.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

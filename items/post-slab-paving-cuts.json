@@ -1,0 +1,39 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Paving Cuts",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The shrinkage cuts installed into the concrete paving are not deep enough, which will likely contribute to cracking.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3727 Guide to Residential Pavement requires these cuts to be between 1/4 to 1/3 the depth of the concrete.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Given that this driveway paving should be a minimum of 100mm thick these cuts need to be between 25 and 33mm deep.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

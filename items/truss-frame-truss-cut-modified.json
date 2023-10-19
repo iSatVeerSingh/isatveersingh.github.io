@@ -1,0 +1,89 @@
+{
+  "category": "Truss Frame",
+  "itemName": "Truss Cut/Modified",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a roof truss that has been cut/modified.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The truss manufacturer warns in the ‘Important Notes’ section of their installation instructions that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Trusses are designed for specific loading, geometry and support conditions. Under no circumstances should any component of the truss be drilled, cut, removed or modified in any way without prior approval from the truss fabricator’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, the relevant Australian Standard, AS 4440 Installation of Nail-Plated Timber Roof Trusses, clause 3.9 Truss Modification, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Under no circumstances shall a truss be modified by cutting, drilling, or by any other method that may interfere with its structural integrity, without being approved. If any truss has been cut, drilled, damaged, or manufactured in such a way as to impair performance, notification should be given to the truss engineer in order to provide adequate rectification to the truss’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder should consult the roof truss manufacturer to provide documentation and/or a design for the rectification, or otherwise to confirm that the current installation is acceptable. The builder should provide a copy of the documentation from the manufacturer to the owner for their records.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

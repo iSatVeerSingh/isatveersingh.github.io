@@ -1,0 +1,39 @@
+{
+  "category": "Painting",
+  "itemName": "Downpipe PVC Painting",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are PVC downpipes/boots that have not been fully painted to protect them from UV corrosion.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These downpipes/boots should be painted to ensure their long-term performance. PVC is not UV stable, and will become brittle and crack over time if not properly painted.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

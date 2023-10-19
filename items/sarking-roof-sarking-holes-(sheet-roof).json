@@ -1,0 +1,64 @@
+{
+  "category": "Sarking",
+  "itemName": "Roof Sarking Holes (Sheet Roof)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The roof sarking at the penetration of the services have not been turned back up to drainage around them properly, which will allow condensation to drip onto the ceilings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 4200.2 Pliable Building Membranes and Underlays, Part 2: Installation Requirements states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘penetrations shall be either sealed or turned up to facilitate drainage around a penetration’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These penetrations/holes must be rectified in accordance with the above requirement.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

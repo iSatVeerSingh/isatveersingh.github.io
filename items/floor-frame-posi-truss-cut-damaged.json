@@ -1,0 +1,54 @@
+{
+  "category": "Floor Frame",
+  "itemName": "Posi Truss Cut/Damaged",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The floor truss in this area has been cut/damaged, which may cause a catastrophic failure of the floor truss system.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The manufacturer states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Under no circumstances should PosiTrusses be cut or modified in any way without prior approval from the truss fabricator’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The manufacturer must be immediately contacted to comment on the issue, and where needed, provide a rectification design solution to properly address this floor joist. The owners should request copies of the approval or rectification design from the floor truss manufacturer for their records.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

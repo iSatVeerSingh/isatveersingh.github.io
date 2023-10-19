@@ -1,0 +1,39 @@
+{
+  "category": "Truss Frame",
+  "itemName": "Valley Board Timbers Not Supported",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The ends of the valley boards (top and/or bottom) have not been properly supported, which may break or collapse when walked upon.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The ends of these valley boards must be properly trimmed/blocked out between the roof framing members to ensure they are adequately supported.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

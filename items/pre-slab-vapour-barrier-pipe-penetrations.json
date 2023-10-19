@@ -1,0 +1,44 @@
+{
+  "category": "Pre-Slab",
+  "itemName": "Vapour Barrier Pipe Penetrations",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The vapour barrier around a number of the pipe and other penetrations has not been properly taped and sealed to them.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of section 5.3.3.4 Installation of AS 2870 Residential Slabs and Footings that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Penetrations by pipes or plumbing fittings shall be taped or sealed with a close-fitting sleeve or made continuous with the vapour barrier or damp-proof membrane by taping or by lapping’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of these penetrations must be properly sealed prior to any concrete being poured.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

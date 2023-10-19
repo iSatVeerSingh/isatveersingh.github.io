@@ -1,0 +1,39 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Silt Pits Covered",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The silt pits installed around to divert the surface water away have been covered with soil, not allowing the water to drain away from the edge of the building, which is directing surface water onto the ground immediately adjacent to the footings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The site drainage must be immediately rectified to prevent further ponding of water against the footings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

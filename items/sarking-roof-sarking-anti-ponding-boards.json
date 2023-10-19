@@ -1,0 +1,114 @@
+{
+  "category": "Sarking",
+  "itemName": "Roof Sarking Anti-Ponding Boards",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The sarking under the roof tiles of this home has not had an anti-ponding board installed beneath it to stop it from sagging down behind the fascia, stopping the water that collects on it from properly draining into the gutters.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.5.1.2 Roof Tiling of the Building Code of Australia (BCA), requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Where sarking is installed, an anti-ponding device/board must be provided on roofs with pitches less than 200; and on all roof pitches where there are no eaves overhang’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Australian Standard AS 2050 Installation of Roof Tiles, Section 3 Installation, clause 3.1.1 General, states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Where required, pliable and reflective-foil sarking shall be installed in accordance with AS 4200.2’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "and clause 3.1.2 Anti-ponding Device/Boards, also states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘An anti-ponding device/board shall be provided as follows;",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "(a) On sarked roofs with pitches of 20o or less;",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "(b) On all roof pitches where there are no eaves overhang’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Australian Standard AS 4200.2 Pliable Building Membranes and Underlays, Part 2: Installation Requirements, clause 6.2 Treatment of Eaves, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The pliable building membrane shall be installed in a manner which will ensure it can drain into eaves gutters any water which it collects, and that no ponding occurs’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The present sarking must have the required anti-ponding board installed under it for the roof of this home to comply with the requirements of the NCC’s BCA and Australian Standards.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

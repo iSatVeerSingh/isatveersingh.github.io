@@ -1,0 +1,114 @@
+{
+  "category": "Waterproofing",
+  "itemName": "Shower Floor Fall ( No Screen)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There has not been sufficient fall of 1:80 provided to the shower floor, which may result in water ponding, and eventually water leaking.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.8.1.2 of the Building Code of Australia (NCC/BCA) - Wet Areas, states that;",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "‘Building elements in wet areas within a building must-",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "a) ",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "be waterproof or water resistant in accordance with Table 3.8.1.1; and",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "b) ",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "comply with AS 3740’",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3740 Waterproofing of Domestic Wet Areas, in clause 3.4 Shower Floors, states that for shower areas without a vertical separation between the shower area and the wet area, such as a shower screen, hob, step-down or water stop;",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘the fall shall be a minimum of 1:80’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The floor of this shower area will need to be re-constructed to have minimum 1:80 fall, and then be properly waterproofed in accordance with the BCA and AS 3740.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

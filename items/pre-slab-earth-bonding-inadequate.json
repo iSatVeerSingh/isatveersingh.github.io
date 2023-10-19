@@ -1,0 +1,44 @@
+{
+  "category": "Pre-Slab",
+  "itemName": "Earth Bonding Inadequate",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There has not been an earth rod installed into the reinforcement.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3000 Wiring Rules states in section 5.6.2.5 that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Any conductive reinforcing within a concrete floor or wall forming part of a shower or bathroom shall be bonded to the earthing system of the electrical installation’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "An earthing bonding conductor will need properly installed prior to any concrete being poured.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

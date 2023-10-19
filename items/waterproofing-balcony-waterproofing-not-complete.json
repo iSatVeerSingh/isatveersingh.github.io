@@ -1,0 +1,54 @@
+{
+  "category": "Waterproofing",
+  "itemName": "Balcony Waterproofing Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There has not been waterproofing propely installed to the balcony, which may result in water leaking.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.8.1.3 - External above ground membranes of the NCC’s Building Code of Australia requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Waterproofing membranes for external above ground use must comply with AS 4654.1 and AS 4654.2’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This balcony will need to be properly waterproofed with the correct vertical upward termination height above the finished floor height, in accordance with the BCA and AS4654.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Sarking",
+  "itemName": "Wall Sarking Not Installed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There has not been wall sarking installed which is almost certainly a requirement of the energy rating for this dwelling.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder should provide evidence that the energy report that forms part of the building permit allows for this wall to not be sarked. Alternatively, these areas should be fully sarked in accordance with the documentation to ensure the energy efficiency and long-term performance of the building elements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

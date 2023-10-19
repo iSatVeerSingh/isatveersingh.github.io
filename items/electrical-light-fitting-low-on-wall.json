@@ -1,0 +1,144 @@
+{
+  "category": "Electrical",
+  "itemName": "Light Fitting Low on Wall",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall light fitting in this area has not been installed at least 1800mm up off the floor, putting the occupants/visitors at risk of electrocution.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "T",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "he relevant Australian Standard AS 3000 Electrical Installations states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘All lampholders shall be located to be adequately protected against damage that might reasonably be expected. In order to protect against inadvertent contact with live parts, low voltage lampholders shall be located to minimize the risk of;",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "·",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "direct contact with live parts of a lampholder when the lamp is removed; and",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "·",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "mechanical damage to the lamp of lampholder.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These requirements may be satisfied by;",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "·",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "installation not less than 1.8m above ground, floor or platform, or",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "·",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "provision of a suitable guard for the lamp and its lampholder, or",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "·",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "the lampholder is incorporated in a luminaire’",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This light fitting must either be raised up to higher than 1800mm, or the builder must install a guard or replace the fitting with a suitable alternative that meets the requirements of AS 3000.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

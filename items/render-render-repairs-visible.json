@@ -1,0 +1,64 @@
+{
+  "category": "Render",
+  "itemName": "Render Repairs Visible",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The render repairs have been poorly finished with visible sections that do not match the colour and texture of the surrounding areas, which detracts from the overall finish.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s, Guide to Standards and Tolerances clause 9.05 Repairs to applied finishes states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Repairs to surfaces that have been rendered are defective if they do not match the colour and texture of the remaining wall or adjacent area as close as practicable’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The walls will need to be re-rendered so there are no obvious blemishes in the wall.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

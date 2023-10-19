@@ -1,0 +1,69 @@
+{
+  "category": "Painting",
+  "itemName": "Marks, Dents & Splits",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are visible marks, dents and splits etc in the finished surface in this area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "Victorian Building Authority’s Guide to Standards and Tolerances clause 12.04 Mechanical Damage and Natural Defects in Surfaces states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Holes and any other unfilled depressions in paint or stained timber such as surface defects caused by mechanical damage, natural characteristics such as gum pockets or surface splits are defects if they can be seen from a normal viewing position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These holes need to be properly filled before being properly sanded and repainted.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

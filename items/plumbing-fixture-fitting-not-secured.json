@@ -1,0 +1,39 @@
+{
+  "category": "Plumbing",
+  "itemName": "Fixture/Fitting Not Secured",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The plumbing fixture/fitting in this area has not been properly secured/installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be rectified to be secured in accordance with manufacturer’s installation instructions and general workmanship standards.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

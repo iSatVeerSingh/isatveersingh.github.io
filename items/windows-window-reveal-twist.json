@@ -1,0 +1,54 @@
+{
+  "category": "Windows",
+  "itemName": "Window Reveal Twist",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The window reveal in this area is visibly twisted due to the poor installation of the window frame.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 2047 Window Design and Installation requires in section 7.2 Installation, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Openings in building into which windows are to be installed shall be of sufficient size to allow the window frame to be installed level and plumb. Windows shall only be installed in locations for which they are designed in accordance with this Standard. Window assemblies shall be fixed into the building using recognized building practices. Fixing shall not deform the window assembly’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This window will need to be properly installed to ensure that all reveals are adequately secured in accordance with AS 2047.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

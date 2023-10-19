@@ -1,0 +1,39 @@
+{
+  "category": "Pre-Plaster",
+  "itemName": "Bath Framing Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The framing for the bath podium has not been completed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This bath podium frame supports the bath, and is also required to affix plasterboard in the wet areas, which is why we recommend it be inspected at this stage. This must be properly completed and inspected prior to plasterboard installation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

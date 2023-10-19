@@ -1,0 +1,59 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Slab Gap To Floor Coverings",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The concrete floor slab has been poured short of the wall, resulting in an excessive gap in the slab that will not allow for the proper installation of the future floor coverings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder warrants that the work will be carried out in",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘a proper and workmanlike manner’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘with reasonable care and skill’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", which is not the case in this area, and should be rectified to allow for proper floor covering installation prior to those works proceeding.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

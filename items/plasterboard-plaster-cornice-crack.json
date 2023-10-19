@@ -1,0 +1,64 @@
+{
+  "category": "Plasterboard",
+  "itemName": "Plaster Cornice Crack",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are areas where cornice cracks are visible.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 9.15 Cracking in Cornices states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Cracking of cornice joints such as butt joints and mitres, and at junctions with walls and ceilings, is defective if it exists at handover or occurs within the first 24 months of completion and can be seen from a normal viewing position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area will have to be properly rectified in accordance with this requirement.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

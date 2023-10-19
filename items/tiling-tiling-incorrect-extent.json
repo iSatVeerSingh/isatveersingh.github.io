@@ -1,0 +1,39 @@
+{
+  "category": "Tiling",
+  "itemName": "Tiling Incorrect Extent",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The tiling in this area has not been installed in accordance with the drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additional tiling will need to be installed to reflect the design requirements of the approved drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

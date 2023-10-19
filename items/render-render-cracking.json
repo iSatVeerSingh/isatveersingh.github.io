@@ -1,0 +1,64 @@
+{
+  "category": "Render",
+  "itemName": "Render Cracking",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The rendered wall has visible cracking, which looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 9.08 Cracking in applied finishes used over lightweight substrate, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Cracks or open joints in finishes applied to lightweight substrate are defective if they exist at handover or exceed 1mm in width within the first 24 months and can be seen from a normal viewing position’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area will need to be rectified and re-rendered to ensure that the cracking does not repeat in accordance with the above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

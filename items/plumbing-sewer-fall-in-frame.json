@@ -1,0 +1,49 @@
+{
+  "category": "Plumbing",
+  "itemName": "Sewer Fall in Frame",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The sewer pipe in this area does not have the required 1:60 fall (16mm fall for every meter) to ensure that it does not become blocked.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard, AS 3500.2 Plumbing and Drainage, Sanitary plumbing and drainage requires that sewer drains shall have a fall of no less than 1:60, which is 1.65% or 16.6mm per meter.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This sewer will possibly become blocked with inadequate fall, therefore it will need to be replaced, which will possibly require sections of the frame be removed and redesigned to accommodate the new sewer pipework.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

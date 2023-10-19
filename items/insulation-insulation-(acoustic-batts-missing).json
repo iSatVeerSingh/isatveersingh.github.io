@@ -1,0 +1,59 @@
+{
+  "category": "Insulation",
+  "itemName": "Insulation (Acoustic Batts Missing)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The acoustic (sound) insulation has not been installed as shown on the documentation we have been provided by the owner.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "For your builder to reach completion, at which point they are entitled to receive final payment, they must have completed all their requirements under the Building Act and provided you with a copy of the Occupancy Permit. They must also have completed your home in a proper and workmanlike manner and in accordance with the plans and specifications.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Until the builder has achieved full compliance with these warranties, the works remain incomplete, and the builder would not be entitled to receive final payment. The outstanding item documented above must be properly addressed by your builder for your home to reach completion, which will require acoustic insulation batts be fully installed in accordance with the contractual documentation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

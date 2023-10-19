@@ -1,0 +1,29 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Timber Formwork Visible",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is still timber formwork in place on the edge of the concrete slab, which as it rots over time will attract termites to the area and put this home at risk of termite infestation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These formwork timbers must be immediately removed from the slab edge.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

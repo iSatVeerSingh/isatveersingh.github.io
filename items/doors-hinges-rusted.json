@@ -1,0 +1,39 @@
+{
+  "category": "Doors",
+  "itemName": "Hinges Rusted",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are door hinges and hinge screws that are already rusted/tarnished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These hinges should be properly and carefully cleaned, or otherwise be replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

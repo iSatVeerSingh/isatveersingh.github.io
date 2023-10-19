@@ -1,0 +1,39 @@
+{
+  "category": "Plumbing",
+  "itemName": "Waste Not Draining",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The waste in this area is not properly draining at an acceptable rate, which indicates that there is a plumbing defect or blockage present in the drainage system.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This should be investigated and properly addressed in accordance with Australian Standard AS 3500 – Plumbing and Drainage.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

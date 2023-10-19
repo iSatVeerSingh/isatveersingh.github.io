@@ -1,0 +1,59 @@
+{
+  "category": "Flooring",
+  "itemName": "Carpet Join Visible",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The carpet join is clearly visible/peaking, which looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 18.10 Floor Coverings states ",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Joins in carpet and vinyl are defective if they peak, fray or misalign and are visible from a normal viewing position within 12 months from handover.’",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The carpet join in this area must be rectified so it is no longer visible, or the carpet be replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

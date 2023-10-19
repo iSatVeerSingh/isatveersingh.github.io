@@ -1,0 +1,75 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Nogging Meter Box",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There needs to be noggings installed over and under the meter box to support the wall studs to each side.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1684 Residential Timber-Framed Construction, clause 6.2.1.5 Noggings states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Wall studs shall have",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "continuous rows of noggings",
+          "bold": true,
+          "italics": true,
+          "decoration": "underline"
+        },
+        {
+          "text": ", located on flat or on edge, at 1350mm maximum centres’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These wall noggings must be installed in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

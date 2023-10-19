@@ -1,0 +1,64 @@
+{
+  "category": "Windows",
+  "itemName": "Window Sill Rubbers",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are window sill rubbers that are either short to the sides, or need to be straightened to prevent water and pest ingress.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 8.02 Weather-tightness of windows, doors, and window and door frames states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Window frame and door frame installations are defective if, due to the builder’s workmanship, they leak or cause unhealthy or dangerous conditions, loss of amenity for occupants, undue dampness or deterioration of building elements’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The window sill rubbers must all be properly installed along the entire length of the sill in accordance with this requirement.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

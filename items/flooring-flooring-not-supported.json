@@ -1,0 +1,64 @@
+{
+  "category": "Flooring",
+  "itemName": "Flooring Not Supported",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The flooring in this area has an unsupported join in it.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1860.2 Particleboard Flooring – Installation in section 9.1 Panel Installation – General Requirements states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Square edge joints shall be butted centrally over joists or trimmers’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder will need to provide solid blocking/trimmers to support this flooring.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Engineering",
+  "itemName": "Engineering Post/Column Bolts",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are bolts not properly installed to the post/column, which is required on the engineering design for the structure.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These bolts must be properly installed in accordance with the engineering design prior to works in this area proceeding any further.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

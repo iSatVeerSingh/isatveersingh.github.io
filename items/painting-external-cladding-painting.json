@@ -1,0 +1,79 @@
+{
+  "category": "Painting",
+  "itemName": "External Cladding Painting",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are paint defects such as cracks and other irregularities in the external cladding that need to be rectified.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 12.02 Surface Finish of Paintwork, states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Paintwork is defective if application defects or blemishes such as paint runs, paint sags, wrinkling, ",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "dust, bare or starved painted areas, colour variation, surface cracks, irregular and course brush marks, sanding marks, blistering, uniformity of gloss level and other irregularities in the surface are visible from a normal viewing position’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder warrants that the work will be carried out in",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘a proper and workmanlike manner’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘with reasonable care and skill’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", which is not the case in this area, and will require these areas be properly rectified and re-painted.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

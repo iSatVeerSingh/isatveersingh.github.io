@@ -1,0 +1,39 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Bulkheads Not Completed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The bulkheads as shown on the drawings have not been completed as required.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area of bulkhead framing must be completed as shown in the construction drawings and engineering, prior to works in this area proceeding any further. It should be noted that we were unable to fully check the area during this inspection.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

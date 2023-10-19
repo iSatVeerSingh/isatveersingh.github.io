@@ -1,0 +1,39 @@
+{
+  "category": "Pre-Slab",
+  "itemName": "Slab Items Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All Slab items have been constructed as per Engineering.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of these areas have been completed, ready for concrete pour.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

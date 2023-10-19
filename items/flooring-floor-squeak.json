@@ -1,0 +1,64 @@
+{
+  "category": "Flooring",
+  "itemName": "Floor Squeak",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The flooring squeaks when walked upon.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 14.06 Squeaking floors states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Floors that consistently squeak by a person walking normally in a trafficable area within the first 24 months from handover are defective’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This floor must be rectified in accordance with the above requirements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

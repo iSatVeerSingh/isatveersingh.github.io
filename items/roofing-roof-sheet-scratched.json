@@ -1,0 +1,59 @@
+{
+  "category": "Roofing",
+  "itemName": "Roof Sheet Scratched",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible scratch in the roofing sheet, which looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "Victorian Building Authority’s, Guide to Standards and Tolerances clause 6.02 Roof cladding states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Staining, folds, splits, dents, open joints between panels, cracking and other distortions in roof cladding is defective if it is visible from a normal viewing position at ground level or an upper floor level. Any corrosion of roof cladding is defective unless it is caused by a lack of maintenance or damaged by the owner’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of roof sheet should be replaced with a new one.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

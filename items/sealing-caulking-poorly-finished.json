@@ -1,0 +1,39 @@
+{
+  "category": "Sealing",
+  "itemName": "Caulking Poorly Finished",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The caulking/sealing in this area has not been neatly completed, which looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This caulking must be rectified to ensure a neat finish that is properly sealed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

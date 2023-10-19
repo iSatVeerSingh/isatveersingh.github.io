@@ -1,0 +1,39 @@
+{
+  "category": "Painting",
+  "itemName": "Meter Box Painting",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The electrical meter box has not been properly painted.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This should be done to protect it from corrosion.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

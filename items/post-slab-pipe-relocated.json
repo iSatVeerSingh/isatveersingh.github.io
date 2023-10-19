@@ -1,0 +1,64 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Pipe Relocated",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The concrete slab has been cut out to re-locate the plumbing pipe.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This work would require an engineer’s design, an inspection by the relevant building surveyor, the reinstallation of the termite collar to the pipe, and the treatment of the edges of the slab between the new and old slab areas.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Australian Standard AS 3660.1 Termite Management states in clause 1.4 Interface Between New and Existing Work, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘A barrier shall be installed at the interface between the new and the existing building at or below ground level to deter concealed entry to the new work’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "and in clause 2.3.1 Concrete Slabs as Termite Barriers, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘A concrete slab of footing used as a termite barrier shall have all interfaces between the penetrations and slab or footing provided with a termite barrier integrated with the slab; and have all joints provided with a termite barrier system integrated with the slab’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The owner should request a copy of the engineer’s design for this rectification work, a copy of the relevant building surveyor inspection report, and the certificates from the termite barrier provider that specifically note the rectified collar as well as the treatment of the joints in the slab. Alternatively, the builder should dig up and re-construct this area to ensure that it is done correctly and properly checked.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "category": "Plasterboard",
+  "itemName": "Wet Area Plasterboard Required",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder has not installed water resistant plasterboard to this area, which is likely to encounter damp conditions.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances states in section 9.11 Plasterboard Sheeting, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The installation and jointing of plasterboard sheeting systems is defective if it does not conform to AS/NZS 2589 and the manufacturer’s installation instructions’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The plasterboard manufacturers all vary in what they require in their installation instructions. However, water resistant plasterboard is required by all manufacturers where their product is likely to see moisture or damp conditions.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder should make all areas comply with the BCA, Australian Standards, and manufacturer's installation instructions. In this case, we recommend that the builder contact the plasterboard manufacturer to confirm what product they recommend for this specific situation, to ensure the long-term performance of their product, and the surrounding building elements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

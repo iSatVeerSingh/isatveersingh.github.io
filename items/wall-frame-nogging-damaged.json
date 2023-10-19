@@ -1,0 +1,54 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Nogging Damaged",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a nogging that has been completely cut away, and is now effectively useless.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1684 Residential Timber-Framed Construction, clause 6.2.1.5 Noggings states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Unless otherwise specified, the minimum nogging size shall be the depth of the stud minus 25 mm by 25mm thick, or the nogging shall have a minimum cross-section of 50 mm × 38 mm for unseasoned timber and 42 mm × 35 mm for seasoned timber, and shall be suitable, where required, for the proper fixing of cladding, linings, and bracing’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This nogging will need to be replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

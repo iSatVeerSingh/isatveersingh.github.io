@@ -1,0 +1,99 @@
+{
+  "category": "Insulation",
+  "itemName": "Insulation (No Contact to Plaster)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall insulation batts have not been properly fitted, such that the insulation makes contact with the plasterboard.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3999 Thermal Insulation of Dwellings - Bulk Insulation - Installation Requirements, states in section 5.4.3.1(a) that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Bulk insulation when installed between wall studs shall be in contact with and fit tightly between studs, top and bottom plates and noggings’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and (b) that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Bulk insulation fitted between studs shall be installed to make contact with the internal wall lining’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The section then goes on to note that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Failure to comply with both the requirements given in Items (a) and (b) may allow the movement of air in the stud space to impair the thermal performance of the installation’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall insulation batts must be properly adjusted to be in contact with the wall linings to ensure thermal performance prior to the plaster installation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Pre-Slab (COMPLETED)",
+  "itemName": "Waiting On Photos",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of the slab has not been fully completed in accordance with the engineering documents and/or Australian Standards, however we have had discussions with the concrete contractor and builder, and they have agreed to rectify this section and provide us with photos as evidence of the works being rectified.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "As all other areas have been generally well constructed, and this item cannot be fully completed and viewed during this inspection, this is the best way to ensure that this area is properly constructed. Once we receive these photographs, it is our normal process to forward a copy of these to the owner.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

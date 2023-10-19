@@ -1,0 +1,29 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Concrete Slab Cracking",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are areas throughout this slab where cracks have developed in the concrete. These cracks are not random shrinkage cracks, instead occurring in straight and perpendicular lines, which appears to be following the line of the waffle pods and/or steel below.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The width of these cracks would ordinarily be considered as shrinkage cracking, however due to the nature and extent of this cracking, it is recommended that the builder arrange for the original design engineer to attend site to make comment on the severity, and the need or otherwise for rectification. The owner should request a copy of the engineer’s comments and/or recommendations for their records.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

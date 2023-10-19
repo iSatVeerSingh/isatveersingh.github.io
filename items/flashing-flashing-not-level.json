@@ -1,0 +1,39 @@
+{
+  "category": "Flashing",
+  "itemName": "Flashing Not Level",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The flashing in this area has been installed out of level, which looks poorly finished and detracts from the overall finish.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": true,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of flashing should be rectified so it is level.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

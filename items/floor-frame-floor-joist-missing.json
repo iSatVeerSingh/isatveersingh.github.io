@@ -1,0 +1,39 @@
+{
+  "category": "Floor Frame",
+  "itemName": "Floor Joist Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a floor joist that has not been installed into the floor frame.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "As this is an engineered floor frame system, the omission of this floor joist may have structural implications. The builder must install the floor frame in accordance with the floor frame engineering design, which will require this joist be installed prior to works in this area proceeding any further.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

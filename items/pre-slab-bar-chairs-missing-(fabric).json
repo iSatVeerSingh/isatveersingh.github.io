@@ -1,0 +1,54 @@
+{
+  "category": "Pre-Slab",
+  "itemName": "Bar Chairs Missing (Fabric)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are bar chairs missing under the slab fabric, which is not properly supporting the reinforcement into its correct position within the slab’s thickness.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 2870 Residential Slabs and Footings states in section 6.4.6 Fixing of reinforcement and void formers that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Reinforcement and void formers shall be fixed in position prior to concreting by means of proprietary spacers, bar chairs with bases, ligatures or other appropriate fixings so as to achieve the required reinforcement position and concrete cover’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". Additionally, section 5.3.2 Reinforcement that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The slab mesh shall be placed towards the top of the raft or slab’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These bar chairs must be properly installed prior to any concrete being poured.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Stairwell Wall Top Plate",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The top plate of the balustrade wall along the side of the upper stair opening is spanning too far, with no fixing down through the depth of the floor joists along its length, and presently has a significant amount of deflection in it.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Some of the intermediate studs along this wall should be extended down through the depth of the floor joists and then securely fixed through them, or otherwise the size/material of the top plate should be increased to remove the deflection.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

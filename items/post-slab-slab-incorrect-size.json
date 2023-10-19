@@ -1,0 +1,39 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Slab Incorrect Size",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The concrete slab has been constructed in the wrong position from what has been documented on the contract drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder will need to have the original design engineer confirm the position of the beam beneath this area to ensure that its throat will not be reduced when this protrusion is trimmed back. Thereafter, the engineer should provide a detail for the required rectification works required to ensure the slab’s long-term performance. The owner should ensure that any rectification works are carried out under the full supervision of the relevant building surveyor and that all investigations and design works provided by the surveyor are properly certified, and seek their inspection approval notice for this work.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

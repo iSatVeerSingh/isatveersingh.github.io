@@ -1,0 +1,39 @@
+{
+  "category": "Sealing",
+  "itemName": "Seal Shower Tile Top",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The top of the shower wall tiling has not been sealed to the wall, allowing water and condensation into the rear of the tiles, which may cause delamination.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item must be rectified to ensure the long-term performance of the tile adhesive.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

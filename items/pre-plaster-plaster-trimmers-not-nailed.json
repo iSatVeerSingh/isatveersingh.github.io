@@ -1,0 +1,69 @@
+{
+  "category": "Pre-Plaster",
+  "itemName": "Plaster Trimmers Not Nailed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The nogging or trimmer installed between the walls/trusses to pick up and support the edges of the plasterboard sheet in this area has not been properly nailed or fixed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of clause 4.4.3.1.3 Perimeter Fixing of Australian Standard AS 2589 Gypsum Linings - Application and Finishing, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Fasteners shall be installed at 300 mm maximum centres at all internal angles, external corners and at openings. For perimeter fastening, fasteners shall be spaced not less than 10 mm and no more than 16 mm from the edges and ends of the gypsum plasterboard’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, Australian Standard AS 4440 Installation of Nail-plated Timber Roof Trusses, states in section 3.5 Plasterboard fixed directly to bottom chords, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Where plasterboard is fixed directly to the bottom chord of trusses, supplementary noggings shall be fitted between trusses where internal walls run parallel to the common trusses. They shall be fixed at a spacing not exceeding that for the common trusses’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Trimmers or noggings will need to be installed so that the edges of the ceiling plasterboard sheets can be securely fixed to the framing at their required centres.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

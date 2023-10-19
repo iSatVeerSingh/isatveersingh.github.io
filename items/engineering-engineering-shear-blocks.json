@@ -1,0 +1,39 @@
+{
+  "category": "Engineering",
+  "itemName": "Engineering Shear Blocks",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The shear blocks have not been constructed as detailed on the engineering drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This will need to be re-constructed on site to reflect the designed requirements of the approved drawings, or otherwise be re-designed and certified by the original design engineer. The building permit may also need to be amended by the relevant building surveyor to reflect the changes to the approved drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

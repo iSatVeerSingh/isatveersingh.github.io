@@ -1,0 +1,64 @@
+{
+  "category": "Flooring",
+  "itemName": "Strip Flooring Gaps",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are numerous large gaps opening up in the timber flooring.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 14.03 Gaps in exposed timber flooring, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Except where affected by exposure to sunlight, cooling, heating or other heat generating appliances, flooring is defective if it has gaps of more than 2mm between adjacent boards that extend for more than 1m, or more than 5mm in total of three gaps between four consecutive boards’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "All of the affected areas must be rectified in accordance with this requirement, which will require boards be replaced/rectified and the entire area sanded and re-finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "category": "Plasterboard",
+  "itemName": "Cornice Not Fixed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The cornice that has been installed around the cupboards/timber beams have not been mechanically fixed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances states in section 9.11 Plasterboard Sheeting, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The installation and jointing of plasterboard sheeting systems is defective if it does not conform to AS/NZS 2589 and the manufacturer’s installation instructions’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall sheet manufacturer’s installation manual states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Cornice must be mechanically fixed around cupboards and onto timber beams’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area will have to be properly rectified in accordance with this requirement.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Reinspection Item",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The following item from the previous inspection report has been completed;",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is no further action required for this item.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

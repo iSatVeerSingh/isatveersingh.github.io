@@ -1,0 +1,54 @@
+{
+  "category": "Contract",
+  "itemName": "Building Over Boundary",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The construction of this building appears to be over the title boundary.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 2.03 Setting out the site states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘A building set out is defective where the set out has failed to comply with the requirements of the approved drawings, the allotment Certificate of Title, planning or development approval, relevant planning overlays and schemes and building regulations’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Building work must not encroach over an allotment boundary unless authorised/approved to do so. A builder must ensure footings, gutters and any other part of the building work does not encroach an allotment boundary’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be properly investigated and rectified/reconstructed in accordance with the above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

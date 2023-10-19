@@ -1,0 +1,64 @@
+{
+  "category": "Brickwork",
+  "itemName": "Bed Joint Base Oversized",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The base bed joint in this section of brickwork is greater than 20mm, which is oversized.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards & Tolerances, clause 3.15 Base bed joint and base row of masonry states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Exposed base bed joints above the finished ground level are defective if they exceed 20 mm in thickness’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area of the brickwork will need to be reconstructed in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

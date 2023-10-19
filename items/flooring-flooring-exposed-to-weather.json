@@ -1,0 +1,69 @@
+{
+  "category": "Flooring",
+  "itemName": "Flooring Exposed To Weather",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The particleboard flooring appears to have been exposed to weather for an extended period of time, which may have caused damage to the flooring sheets.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1860.2 Particleboard Flooring – Installation in section 11 Protection of Installed Particleboard Flooring states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘As soon as practicable after fixing, particleboard flooring shall be protected from the weather, preferably by the installation of roof covering and external wall cladding. The maximum exposure time shall be 3 months’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It also states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "'Particleboard flooring would be expected to perform satisfactorily, in most cases, after more than 3 months weather exposure. However, if the 3 months exposure is exceeded, the particleboard-flooring manufacturer should be called upon to provide a written opinion as to whether the floor is satisfactory. If the manufacturer considers the floor to be unsatisfactory, appropriate remedial action should be specified' .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder must request that the manufacturer attend site to provide comment on these sheets, as required by AS 1860. The owner should request copies of the formal correspondence from the flooring manufacturer, or alternatively, these sheets should all be replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

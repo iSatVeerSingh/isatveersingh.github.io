@@ -1,0 +1,129 @@
+{
+  "category": "BAL",
+  "itemName": "Door Not BAL Compliant",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The external door in this area has not been protected from embers in the event of a bushfire.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3959 Construction of Buildings in Bushfire-Prone Areas states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Doors shall be;",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "a. ",
+          "bold": true,
+          "italics": false
+        },
+        {
+          "text": "non-combustible; or",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "b. ",
+          "bold": true,
+          "italics": false
+        },
+        {
+          "text": "a solid timber, laminated timber or reconstituted timber door, having a minimum thickness of 35 mm for the first 400 mm above the threshold; or",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "c. ",
+          "bold": true,
+          "italics": false
+        },
+        {
+          "text": "a door, including a hollow core door, with a non-combustible kickplate on the outside for the first 400 mm above the threshold; or",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "d. ",
+          "bold": true,
+          "italics": false
+        },
+        {
+          "text": "a door, including a hollow core door, protected externally by a screen that complies with Clause 5.5.1A; or",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "e. ",
+          "bold": true,
+          "italics": false
+        },
+        {
+          "text": "fully framed glazed door, where the framing is made from materials specified for bushfire shutters (see Clause 5.5.1), or from a timber species as specified in Paragraph E2, Appendix E’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "As this door does not meet any of the above requirements, the builder must rectify to comply with the BAL requirements for occupant safety reasons.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

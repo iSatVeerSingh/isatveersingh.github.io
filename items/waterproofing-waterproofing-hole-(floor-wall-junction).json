@@ -1,0 +1,54 @@
+{
+  "category": "Waterproofing",
+  "itemName": "Waterproofing Hole (Floor/Wall Junction)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a visible hole in the waterproofing membrane at the floor/wall junction, which could result in a long-term water leak that can cause damage to the structure and surrounding areas, and means that the waterproofing does not extend up the walls at least 25mm above the proposed finished floor level.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3740 – Waterproofing of domestic wet areas states in section 3.9.1 Perimeter flashing that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Perimeter flashing to wall/floor surfaces shall be continuously sealed to the horizontal surface and have a vertical leg of a minimum of 25 mm above the finished floor level’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These areas must be fully waterproofed to protect the building elements from damage in accordance with the BCA and Australian Standard 3740.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

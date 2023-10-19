@@ -1,0 +1,39 @@
+{
+  "category": "Windows",
+  "itemName": "Aluminium Frame Repair",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The aluminium frame repairs have not been properly carried out, leaving the repairs clearly visible, which looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Often small scratches can be properly repaired if care is taken, therefore this section of the frame should be carefully and properly repaired, otherwise it will need to be replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

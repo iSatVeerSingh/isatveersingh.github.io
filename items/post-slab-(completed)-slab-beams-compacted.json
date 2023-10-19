@@ -1,0 +1,54 @@
+{
+  "category": "Post-Slab (COMPLETED)",
+  "itemName": "Slab Beams Compacted",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The slab has been fully checked in all areas, and we can confirm that the slab beams appear to not have been properly vibrated/compacted, and there are no areas of honeycombing visible.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.2.3.1 Concrete of the BCA requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Concrete must be placed, compacted and cured in accordance with good building practice’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", while the relevant Australian Standard AS 2870 Residential Slabs and Footings requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Concrete in beams shall be mechanically vibrated’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item is to confirm that the slab edge beams appear to have been properly vibrated/compacted, and there is no action required from the builder at this stage in relation to this issue.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

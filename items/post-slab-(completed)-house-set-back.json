@@ -1,0 +1,64 @@
+{
+  "category": "Post-Slab (COMPLETED)",
+  "itemName": "House Set-Back",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The drawings we have been provided with show the set-back from the front and side boundary etc, which we have check measured, and can confirm that it closely matches what has been documented on the drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 2.03 Setting out the site states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘A building set out is defective where the set out has failed to comply with the requirements of the approved drawings’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and clause 2.06 Building dimensions states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Departures from documented set out for external elements such as garages, carports, verandahs, decks, patios, etc. are defects if they exceed L/100 or 5 mm, whichever is the greater, where L is the documented dimension’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item is to confirm that the house set-back is correct (within the allowable tolerances), and there is no action required from the builder in relation to this issue.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

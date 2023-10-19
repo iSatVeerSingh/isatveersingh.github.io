@@ -1,0 +1,39 @@
+{
+  "category": "Heating",
+  "itemName": "Return Air Power",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The rear of the power outlets and switches in the return air void need to be guarded to protect persons from electrocution while servicing the heater.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item must be properly rectified for safety reasons.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "category": "Stairs",
+  "itemName": "Internal Step Height",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The internal step in this area has a riser height greater than 190mm.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.9.1.4 Riser and Going Dimensions of the Building Code of Australia (BCA) states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘the maximum riser shall be a maximum of 190mm’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The height of this riser must be made to comply with this requirement of the Building Code of Australia (BCA).",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

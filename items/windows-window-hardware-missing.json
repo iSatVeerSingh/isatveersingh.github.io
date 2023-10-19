@@ -1,0 +1,54 @@
+{
+  "category": "Windows",
+  "itemName": "Window Hardware Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The window hardware in this area is missing/not installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Handles, locks and latches are defective if they do not operate as intended by the manufacturer’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This missing window hardware should be properly installed for it to operate as intended by the manufacturer.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

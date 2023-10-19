@@ -1,0 +1,64 @@
+{
+  "category": "Joinery",
+  "itemName": "Joinery Repair Visible",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The joinery damage has been badly repaired, which looks poorly finished and needs to be rectified.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 10.07 Rectification of defective natural materials and manufactured materials states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The rectification of surfaces is defective if the rectification work does not reasonably match the adjacent areas. If reasonable matching is not possible, the entire surface shall be replaced’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The joinery in this area should be replaced in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

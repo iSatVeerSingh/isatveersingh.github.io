@@ -1,0 +1,89 @@
+{
+  "category": "Brickwork",
+  "itemName": "Brickwork Overhanging Slab",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The brickwork is overhanging the edge of the slab by more than the allowable amount.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.2.2.7 Edge Rebates of the NCC’s Building Code of Australia (BCA) requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Exterior masonry must not overhang more that 15mm past the edge of the slab’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, the Victorian Building Authority’s Guide to Standards & Tolerances in clause 3.16 Masonry that overhangs concrete slabs states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘A masonry course is defective if it is laid on a concrete slab or strip footing so as to project over the edge of the slab or footing by more than 15 mm’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of brickwork is clearly over this allowance, so the slab will need to be extended using an appropriately designed and certified engineered system. The owner should request a copy of the documentation from the engineer to confirm the engineer is aware of this issue.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

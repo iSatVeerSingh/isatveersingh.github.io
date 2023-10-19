@@ -1,0 +1,79 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Safety Issue (Structural)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are obvious ommisions/defects in this area that may cause the structure to potentially fail/collapse, which could have devastating effect on not only the structure, but to the safety of workers and site visitors.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are OH&S laws in Victoria (The Occupational Health & Safety Regulations) that require the builder to ensure that the site is safe for all workers and/or visitors, and apart from the obvious need for the builder to rectify this immediately, they risk huge fines from Worksafe Victoria until these areas are made safe.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, the possible delays and cost ramifications for what would be a simple rectification now seems difficult to overlook.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder should immediately take steps to rectify and make safe this area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

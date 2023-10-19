@@ -1,0 +1,54 @@
+{
+  "category": "Pre-Slab",
+  "itemName": "Vapour Barrier Holes Inadequate",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are a number of tears and punctures in the vapour barrier membrane beneath the slab.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "It is a requirement of section 5.3.3.4 Installation of AS 2870 Residential Slabs and Footings that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Both vapour barriers and damp-proofing membranes shall be placed beneath the slab so that the bottom surface of the slab and beams, including internal beams, is entirely underlaid’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "and that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Penetrations by pipes or plumbing fittings shall be taped or sealed with a close-fitting sleeve or made continuous with the vapour barrier or damp-proof membrane by taping or by lapping’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These missing areas of the vapour barrier must be properly repaired and sealed prior to any concrete being poured.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "category": "Brickwork",
+  "itemName": "Head Flashing Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There has not been a head flashing, or at the very least the required accompanying weepholes, installed into the brickwork across the top of the opening in this area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 4773.2 Masonry in Small Buildings – Construction, clause 9.6.2.3 Head flashings requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Head flashings shall extend 150 mm (min.) beyond each side of the opening, be installed over all exposed openings in veneer walls and shall be built into the masonry a minimum of 30 mm, turned up in the cavity not less than 150 mm and adequately secured to the frame; be placed as low as practicable over the opening in the first available course above the lintel’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This opening will have to be reconstructed to have flashing and weepholes installed into the brickwork over it to properly waterproof the opening, and stop the timber wall frame from rotting out prematurely.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

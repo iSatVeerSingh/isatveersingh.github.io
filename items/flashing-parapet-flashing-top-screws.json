@@ -1,0 +1,64 @@
+{
+  "category": "Flashing",
+  "itemName": "Parapet Flashing Top Screws",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The parapet capping has screw fixings installed through the top of the flashing, which has the potential to leak.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.5.4.8 Parapet cappings of the NCC’s Building Code of Australia (BCA) states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Cappings must be fixed with either self drilling screws or rivets with rubber washers at intervals of not more than 500mm that do not penetrate the top of cappings, except at joints and corners’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". Additionally, the Victorian Building Authority’s, Guide to Standards and Tolerances clause 7.06 Flashings states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Flashings are defective if they are not provided in accordance with the requirements of the Building Code of Australia’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This section of flashing must be properly rectified in accordance with the Building Code of Australia (BCA) and VBA so it cannot leak.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

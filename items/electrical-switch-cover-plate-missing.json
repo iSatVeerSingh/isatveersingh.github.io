@@ -1,0 +1,39 @@
+{
+  "category": "Electrical",
+  "itemName": "Switch Cover Plate Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The cover plate of the switch/outlet in this area has not been installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be properly installed prior to completion.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

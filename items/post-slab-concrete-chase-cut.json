@@ -1,0 +1,29 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Concrete Chase Cut",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The top of the floor slab has been cut/chased, which would have either exposed or cut away the steel reinforcement mesh from within it, compromising the slab’s integrity.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder must have the original design engineer inspect and make recommendations on the acceptability of these cuts to ensure the slab’s long-term performance. The owner should request a copy of the engineer’s comments and/or recommendations and ensure that any rectification work is carried out under the supervision and approval of the building surveyor.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

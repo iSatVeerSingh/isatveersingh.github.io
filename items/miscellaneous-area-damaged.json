@@ -1,0 +1,74 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Area Damaged",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area has been damaged, which appears to be due to the work the builder has undertaken, and will require it to be repaired or replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 18.02 Faults and damage to appliances and fittings states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Damage to appliances and fittings supplied as part of the building contract is defective if it is due to the builder’s workmanship’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". Additionally, the builder warrants that the work will be carried out in",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘a proper and workmanlike manner’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘with reasonable care and skill’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This area should be rectified prior to handover.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

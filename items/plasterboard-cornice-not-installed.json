@@ -1,0 +1,39 @@
+{
+  "category": "Plasterboard",
+  "itemName": "Cornice Not Installed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The plaster cornice in this area has not yet been installed, and was unable to be properly inspected to ensure it is straight, level and installed in accordance with the manufacturer’s requirements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This cornice must be properly installed in accordance with the manufacturer’s installation instructions.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

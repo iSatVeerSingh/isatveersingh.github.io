@@ -1,0 +1,59 @@
+{
+  "category": "Pre-Plaster",
+  "itemName": "Cavity Slider Frames Not Complete",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The pocket frames for the cavity sliding doors have not been installed, which is required prior to plasterboard installation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These cavity slider pocket frames need to be installed plumb, level and square, and with sufficient fixings for the future door to properly work as intended by the manufacturer, and are also required to affix plasterboard to the walls, which is why we recommend it be inspected at this stage.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This must be properly completed and inspected prior to plasterboard installation.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

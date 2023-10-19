@@ -1,0 +1,59 @@
+{
+  "category": "Post-Slab",
+  "itemName": "Overhang Grout Repair",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The floor slab has been boxed and poured short along the wall, which has left the wall overhanging the edge of the floor slab, and the builder has attempted to rectify this issue by installing a grout-based product that likely has little or no vertical adhesion to the slab, resulting in this grout repair contributing almost nothing to resolving this issue.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Grout is a very strong product for transferring load down onto a slab underneath, but has almost no vertical adhesion properties. If the builder is to rely on this grout repair as an adequate solution to the overhang, they should provide evidence to the owner that the product used can support the weight of the wall with the friction alone on the edge of the slab.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Otherwise, this will need to be re-constructed on site to reflect the designed requirements of the approved engineering drawings, or be re-designed with a supporting metal angle (or similar) and certified by the original design engineer. The building surveyor may also need to inspect the amended design/rectification.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

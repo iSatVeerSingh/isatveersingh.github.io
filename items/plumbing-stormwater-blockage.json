@@ -1,0 +1,44 @@
+{
+  "category": "Plumbing",
+  "itemName": "Stormwater Blockage",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is building debris, rocks and dirt within the stormwater system.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3500.3 Plumbing and Drainage Part 3: Stormwater drainage requires in section 6.3.1.2 Site stormwater pipes, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Pipes for site stormwater drains shall be cleaned internally prior to installation and commissioning’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The pits and pipes will need to be cleared of these excesses to present a functioning stormwater system that is clear from any/all obstruction.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

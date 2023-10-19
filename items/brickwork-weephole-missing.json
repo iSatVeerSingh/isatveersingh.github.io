@@ -1,0 +1,89 @@
+{
+  "category": "Brickwork",
+  "itemName": "Weephole Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is a weephole missing in this area, which does not allow water from within the brick-veneer cavity to properly drain out.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard, AS 4773 - Masonry for Small Buildings requires in clause 10.5.3 Flashings and Weepholes, that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Cavity flashing shall be drained by weepholes at 1200mm maximum centres’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, Part 3.3.5.9 Weepholes, of the NCC’s Building Code of Australia (BCA) requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Weepholes must be created in the course immediately above any flashing (including above any damp-proof course acting as a flashing) and be at not more than 1.2m centres’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These weepholes will need to be properly cleaned out with extreme care not to damage the DPC/cavity flashing that is located below it.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

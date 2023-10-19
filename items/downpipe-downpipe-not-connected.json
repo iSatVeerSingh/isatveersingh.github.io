@@ -1,0 +1,39 @@
+{
+  "category": "Downpipe",
+  "itemName": "Downpipe Not Connected",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are downpipes that have not been fitted, continuing to direct water onto the ground adjacent to the footings, which could cause future slab heave/structural movement issues.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder must immediately fit downpipes to the gutters to prevent future structural movement issues.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

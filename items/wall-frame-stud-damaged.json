@@ -1,0 +1,39 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Stud Damaged",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The wall stud has been damaged.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This framing member should be properly strengthened or otherwise replaced.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

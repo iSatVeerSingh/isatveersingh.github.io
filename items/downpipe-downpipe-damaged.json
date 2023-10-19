@@ -1,0 +1,39 @@
+{
+  "category": "Downpipe",
+  "itemName": "Downpipe Damaged",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This downpipe has been stained with acid, which looks poorly finished.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This downpipe should be replaced with a new one.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

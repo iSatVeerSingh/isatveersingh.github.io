@@ -1,0 +1,79 @@
+{
+  "category": "Flooring",
+  "itemName": "Flooring Not Level (Water Pooling)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The flooring frame has been constructed out of level, with water visibly pooling in areas, which is likely to be damaging the particleboard flooring sheets.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1860.2 Particleboard Flooring – Installation in section 11 Protection of Installed Particleboard Flooring states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Any ponded water should be removed as soon as practicable. This can be achieved by drilling holes of 3 mm maximum diameter, at not less than 1 m spacing, through the floor where ponding occurs’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, with reference to the out of level flooring, the Victorian Building Authority’s Guide to Standards and Tolerances clause 14.08 Levelness of Timber Floors, states",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘New floors are defective if within the first 24 months of handover they differ in level by more than 10mm in any room or area, or more than 4mm in any 2m length’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The pooling water must be immediately removed, and the floor in this area will need to be properly rectified so that it complies with this tolerance.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

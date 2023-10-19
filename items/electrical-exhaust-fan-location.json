@@ -1,0 +1,39 @@
+{
+  "category": "Electrical",
+  "itemName": "Exhaust Fan Location",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The exhaust fan in this area has not been installed in accordance with the drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This item will need to be relocated to reflect the design requirements of the approved drawings.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

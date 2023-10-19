@@ -1,0 +1,69 @@
+{
+  "category": "Doors",
+  "itemName": "Door Seal Rubbers",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are external door seal rubbers that are either short, or have not been installed to prevent air, water and pest ingress.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 8.02 Weather-tightness of windows, doors, and window and door frames states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Windows and doors are defective if, when closed, they allow the entry of water’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ". Additionally, Part 3.12.3.3 and Part 3.12.3.5 of the NCC’s Building Code of Australia (BCA) calls for all gaps around windows and doors to be sealed. Australian Standard AS 2047 also calls for the sealing of windows/doors to stop water and air penetration.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These door seal rubbers must all be properly installed along the entire length of the frame in accordance with these requirements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

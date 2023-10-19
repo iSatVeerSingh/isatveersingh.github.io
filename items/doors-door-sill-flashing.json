@@ -1,0 +1,64 @@
+{
+  "category": "Doors",
+  "itemName": "Door Sill Flashing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The timber door frames have not had a sill flashing installed in accordance with the requirements of Part 3.5.3.6 Flashings to Wall Openings of the Building Code of Australia (BCA), which will allow water to penetrate in under it into the finished floor.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 8.02 Weather-tightness of windows, doors, and window and door frames states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Windows and doors are defective if they are not sealed in accordance with the requirements of the Building Code of Australia’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The frame will now have to be removed and the sill properly flashed before it is re-installed with attention paid to the flashing beings turned down into the cavity.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

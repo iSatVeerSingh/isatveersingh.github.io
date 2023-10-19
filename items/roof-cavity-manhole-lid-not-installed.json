@@ -1,0 +1,39 @@
+{
+  "category": "Roof Cavity",
+  "itemName": "Manhole Lid Not Installed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The roof access manhole lid has not been installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This manhole lid should be installed (and insulated) to ensure the thermal efficiency of the ceiling area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

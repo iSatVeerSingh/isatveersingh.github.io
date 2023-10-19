@@ -1,0 +1,44 @@
+{
+  "category": "Miscellaneous",
+  "itemName": "Damaged Fitting",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is visible damage in the fitting in this area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 18.02 Faults and damage to appliances and fittings states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Damage to appliances and fittings supplied as part of the building contract is defective if it is due to the builder’s workmanship’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This basin will need to be replaced or repaired in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

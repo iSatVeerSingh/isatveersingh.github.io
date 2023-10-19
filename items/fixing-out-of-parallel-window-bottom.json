@@ -1,0 +1,64 @@
+{
+  "category": "Fixing",
+  "itemName": "Out of Parallel Window Bottom",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The bottom of the window has been constructed out of parallel with the floor, indicating that either the floor, the window, or both are out of level.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘New floors are defective if within the first 24 months of handover they differ in level by more than 10mm in any room or area, or more than 4mm in any 2m length’.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder will need to confirm whether the floor or window is out of level, and reconstruct as necessary to ensure they are properly level and parallel.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

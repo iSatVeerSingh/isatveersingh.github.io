@@ -1,0 +1,39 @@
+{
+  "category": "Truss Frame",
+  "itemName": "Jack Truss Tails",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The tails of the small jack rafters installed near the heel of the hip trusses have not been framed back to the wall frame to properly support them.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additional jack rafter supports must be installed prior to the roof works proceeding any further.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

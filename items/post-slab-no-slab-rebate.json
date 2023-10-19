@@ -1,0 +1,59 @@
+{
+  "category": "Post-Slab",
+  "itemName": "No Slab Rebate",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There has not been a rebate installed into the edge of the slab across these walls, resulting in the bricks/cladding sitting at the same level as the timber wall plates.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.2.2.7 Edge Rebates of the Building Code of Australia (BCA), requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘an edge rebate for waffle raft slabs with masonry cavity or veneer construction must not be less than 20mm; and that the edge rebate must be flashed and drained in accordance with Part 3.3.4’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Additionally, Australian Standard AS 1684 Residential timber-framed construction requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Structural timber members that are in ground contact or that are not protected from weather exposure and associated moisture ingress shall be of in-ground durability Class 1 or 2, or shall be adequately treated with a preservative’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder will have to re-construct this area to fully comply with these requirements of the BCA and Australian Standards to stop the structural framing members in this area from failing prematurely due to timber rot.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

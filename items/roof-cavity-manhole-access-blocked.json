@@ -1,0 +1,64 @@
+{
+  "category": "Roof Cavity",
+  "itemName": "Manhole Access Blocked",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Access into the roof cavity through the manhole is unduly difficult.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 5601 – 2004 Gas Installations, clause 5.3.11 Appliances in Roof Spaces, requires that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘The location of the appliance is to allow access for lighting and servicing’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": "and defines access as",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Access can be gained without hazard or undue difficulty for inspection, repair, renewal or operational purposes’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The access into this roof must be rectified to allow for safe access to service the area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

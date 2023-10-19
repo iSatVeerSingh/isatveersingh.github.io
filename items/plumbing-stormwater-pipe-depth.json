@@ -1,0 +1,54 @@
+{
+  "category": "Plumbing",
+  "itemName": "Stormwater Pipe Depth",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The stormwater drain in this area has not been installed deep enough to prevent it from damage.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "Part 3.1.2.5 Stormwater Drainage of the BCA states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Cover to 90mm Class 6 UPVC stormwater drains be not less than 100mm under soil; 50mm under paved areas’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The builder will therefore have to lower this drain to protect it from damage in accordance with the above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

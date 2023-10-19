@@ -1,0 +1,39 @@
+{
+  "category": "Doors",
+  "itemName": "Door Hardware Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There is hardware missing on the door in this area.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This missing door hardware should be installed for it to operate as intended by the manufacturer.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

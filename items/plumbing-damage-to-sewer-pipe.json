@@ -1,0 +1,39 @@
+{
+  "category": "Plumbing",
+  "itemName": "Damage To Sewer Pipe",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The sewer drainage system pipe in this area has sustained damage or is likely to be damaged.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "As this damage will likely affect the performance of the installation, or the health/safety of the occupants, this will need to be properly repaired or replaced, and the installation protected from future damage prior to works in this area proceeding any further.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

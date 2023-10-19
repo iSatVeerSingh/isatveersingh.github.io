@@ -1,0 +1,74 @@
+{
+  "category": "Doors",
+  "itemName": "Door Edges Not Sealed (Wet Area)",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The top/bottom edges of the external door have not been properly sealed, which is contrary to the manufacturer’s requirements.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The Victorian Building Authority’s Guide to Standards and Tolerances clause 8.06 Sealing of Door Edges states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Door leaves are defective if they do not have all sides, top and bottom edges that are sealed to prevent moisture entering’",
+          "bold": true,
+          "italics": true
+        },
+        {
+          "text": ", and clause 8.01 Installation of external windows and door states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Unless documented otherwise, external windows and doors are defective if they are not installed and flashed in accordance with the manufacturer’s installation instructions’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These edges need to be properly sealed in accordance with this requirement.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

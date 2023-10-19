@@ -1,0 +1,54 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Laminated Studs",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The stud column has not been properly nail-laminated.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 1684 Residential Timber-Framed Construction, clause 2.4 Stud Lamination states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Studs at sides of openings and supporting concentration of load up to 38mm thick shall be nailed together with one 75mm nail at maximum 600mm centres. Studs over 38mm but not exceeding 50mm thick shall be nailed with one 90mm nail at maximum 600mm centres’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These studs must be properly laminated together in compliance with the above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

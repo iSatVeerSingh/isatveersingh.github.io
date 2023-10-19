@@ -1,0 +1,54 @@
+{
+  "category": "Floor Frame",
+  "itemName": "Posi Truss Strongback Missing",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The strongback in this area has not been installed.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The manufacturer states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Strongbacks significantly dampen vibrations and increase the stiffness of the floor system. The performance of the floor depends very much on the proper installation of Strongbacks’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The additional strongback timbers must be installed, or the manufacturer contacted to provide an alternative solution if installation is no longer practical.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

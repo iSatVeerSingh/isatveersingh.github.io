@@ -1,0 +1,54 @@
+{
+  "category": "Tiling",
+  "itemName": "Tiling Extra Cuts Not Needed",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The tile unit in this area has been cut and installed in multiple pieces, where a single piece of tile could easily have been installed, which looks poorly finished and should be replaced with the properly cut and fitted tile.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard AS 3958.1 Installation of Ceramic Tiles, clause 5.4.2.4 Placement of Cuts states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Where possible, cuts should not be smaller than half size and all cuts should be made on the perimeter of the job’",
+          "bold": false,
+          "italics": true
+        },
+        {
+          "text": ". Additionally, clause 5.4.3 Fitting, states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘Do not install single tiles in more than one piece unless no alternative is possible’ .",
+          "bold": false,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "This tile unit should be properly replaced in accordance with above.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}

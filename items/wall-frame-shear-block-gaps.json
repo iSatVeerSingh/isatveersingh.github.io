@@ -1,0 +1,54 @@
+{
+  "category": "Wall Frame",
+  "itemName": "Shear Block Gaps",
+  "children": [
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "There are shear blocks that have been installed with a large gap to the side of the ceiling trimmers/roof trusses.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "ITEM_IMAGES_NOTES"
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "The relevant Australian Standard, AS 1684 Residential Timber-Framed Construction, clause 8.3.6.9 Fixing of Top of Bracing Walls states that",
+          "bold": false,
+          "italics": false
+        },
+        {
+          "text": "‘All internal bracing walls shall be fixed to the floor of lower storey bracing walls, the ceiling or roof frame, and/or the external wall frame, with structural connections of equivalent shear capacity to the bracing capacity of that particular bracing wall’ .",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "children": [
+        {
+          "text": "These shear blocks will need to be reconstructed to comply with AS 1684.",
+          "bold": false,
+          "italics": false
+        }
+      ]
+    }
+  ]
+}
